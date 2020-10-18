@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+echo "git pull/ daemon stop/delete/clean/start/status"
+git pull
+npm run stop
+npm run start
