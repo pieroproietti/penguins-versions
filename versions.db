@@ -1,3 +1,5 @@
-{"version":"7.6.60","arch":"amd64","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUtO"}
+{"version":"7.6.61","arch":"amd64","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU01"}
+{"version":"7.6.61","arch":"i386","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU02"}
 {"version":"7.6.60","arch":"i386","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUt1"}
+{"version":"7.6.60","arch":"amd64","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUtO"}
 {"version":"7.6.59","arch":"amd64","changelog":"test","_id":"3fXRzmgCNgQrGAAd"}
