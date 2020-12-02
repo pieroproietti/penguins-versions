@@ -6,11 +6,13 @@
 {"version":"7.6.73","arch":"amd64","changelog":"finishing touches in update: show sources and versions","_id":"26slUQ1SLhK1V4Lp"}
 {"version":"7.6.59","arch":"amd64","changelog":"test","_id":"3fXRzmgCNgQrGAAd"}
 {"version":"7.6.65","arch":"amd64","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"3qREKj8dScRUUTtS"}
+{"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
 {"version":"7.6.77","arch":"i386","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"7vshOuymUPnN9Lev"}
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"84VqJCJOi5N11RRh"}
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"9iirsTU9c3SobdOB"}
 {"version":"7.6.70","arch":"amd64","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"AKI3SPYRmsaSEKW5"}
 {"version":"7.6.72","arch":"i386","changelog":"changes for site, readme, terminal sessions and so on.","_id":"LWpyb9muWCNgY2DJ"}
+{"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
 {"version":"7.6.74","arch":"i386","changelog":"introducing basket update","_id":"QTT4pwXYiz2bXdZS"}
 {"version":"7.6.78","arch":"amd64","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"ST839SfPzg0YgrF0"}
 {"version":"7.6.74","arch":"amd64","changelog":"introducing basket update","_id":"UuELU11eN1jNs2Cw"}
@@ -22,5 +24,5 @@
 {"version":"7.6.65","arch":"i386","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"sKwSAj3MvnHzywpT"}
 {"version":"7.6.73","arch":"i386","changelog":"finishing touches in update: show sources and versions","_id":"tYWi621ktq5jRFKN"}
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
-{"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
-{"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
+{"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
+{"version":"7.6.80","arch":"i386","changelog":"displays the command flags","_id":"1OtAKTmUua8f3eXh"}
