@@ -7,6 +7,7 @@
 {"version":"7.6.73","arch":"amd64","changelog":"finishing touches in update: show sources and versions","_id":"26slUQ1SLhK1V4Lp"}
 {"version":"7.6.59","arch":"amd64","changelog":"test","_id":"3fXRzmgCNgQrGAAd"}
 {"version":"7.6.65","arch":"amd64","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"3qREKj8dScRUUTtS"}
+{"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
 {"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
 {"version":"7.6.77","arch":"i386","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"7vshOuymUPnN9Lev"}
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"84VqJCJOi5N11RRh"}
@@ -19,6 +20,7 @@
 {"version":"7.6.74","arch":"amd64","changelog":"introducing basket update","_id":"UuELU11eN1jNs2Cw"}
 {"version":"7.6.76","arch":"amd64","changelog":"introducing basket update, removed documents from packages","_id":"Vmz8DZfGMXZBFjEe"}
 {"version":"7.6.70","arch":"i386","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"W5ojFI1kfIDB6wix"}
+{"version":"7.6.81","arch":"amd64","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"ZIaI9XXx9rhlcOQn"}
 {"version":"7.6.78","arch":"i386","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"edjGywNhKMEK0diy"}
 {"version":"7.6.72","arch":"amd64","changelog":"changes for site, readme, terminal sessions and so on.","_id":"iNkelYDpl6g7dTIX"}
 {"version":"7.6.77","arch":"amd64","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"nEyIl8CyGT62eriI"}
@@ -26,5 +28,8 @@
 {"version":"7.6.73","arch":"i386","changelog":"finishing touches in update: show sources and versions","_id":"tYWi621ktq5jRFKN"}
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
-{"version":"7.6.81","arch":"amd64","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"ZIaI9XXx9rhlcOQn"}
+{"version":"7.6.82","arch":"amd64","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"lPslC0bGC5tBodDt"}
+{"version":"7.6.82","arch":"i386","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"ToiO728Znwq416Py"}
+{"version":"7.6.83","arch":"amd64","changelog":"reintroduced armel arch; info now show running mode","_id":"rrhMxkWWEsd724Wj"}
+{"version":"7.6.83","arch":"armel","changelog":"reintroduced armel arch; info now show running mode","_id":"h2zOx872bn0hPeG5"}
+{"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
