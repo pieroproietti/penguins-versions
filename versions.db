@@ -14,6 +14,7 @@
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"9iirsTU9c3SobdOB"}
 {"version":"7.6.70","arch":"amd64","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"AKI3SPYRmsaSEKW5"}
 {"version":"7.6.72","arch":"i386","changelog":"changes for site, readme, terminal sessions and so on.","_id":"LWpyb9muWCNgY2DJ"}
+{"version":"7.6.85","arch":"i386","changelog":"new configuration and new cli install","_id":"PXt7FmHtIHOyiR0X"}
 {"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
 {"version":"7.6.74","arch":"i386","changelog":"introducing basket update","_id":"QTT4pwXYiz2bXdZS"}
 {"version":"7.6.78","arch":"amd64","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"ST839SfPzg0YgrF0"}
@@ -31,7 +32,7 @@
 {"version":"7.6.65","arch":"i386","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"sKwSAj3MvnHzywpT"}
 {"version":"7.6.73","arch":"i386","changelog":"finishing touches in update: show sources and versions","_id":"tYWi621ktq5jRFKN"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
+{"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.6.85","arch":"i386","changelog":"new configuration and new cli install","_id":"PXt7FmHtIHOyiR0X"}
-{"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
+{"version":"7.6.85","arch":"armel","changelog":"new configuration and new cli install","_id":"q8Sh0Agp2JHMYuch"}
