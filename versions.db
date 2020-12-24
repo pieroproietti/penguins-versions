@@ -28,6 +28,7 @@
 {"version":"7.6.72","arch":"amd64","changelog":"changes for site, readme, terminal sessions and so on.","_id":"iNkelYDpl6g7dTIX"}
 {"version":"7.6.82","arch":"amd64","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"lPslC0bGC5tBodDt"}
 {"version":"7.6.77","arch":"amd64","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"nEyIl8CyGT62eriI"}
+{"version":"7.6.85","arch":"armel","changelog":"new configuration and new cli install","_id":"q8Sh0Agp2JHMYuch"}
 {"version":"7.6.83","arch":"amd64","changelog":"reintroduced armel arch; info now show running mode","_id":"rrhMxkWWEsd724Wj"}
 {"version":"7.6.65","arch":"i386","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"sKwSAj3MvnHzywpT"}
 {"version":"7.6.73","arch":"i386","changelog":"finishing touches in update: show sources and versions","_id":"tYWi621ktq5jRFKN"}
@@ -35,4 +36,6 @@
 {"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.6.85","arch":"armel","changelog":"new configuration and new cli install","_id":"q8Sh0Agp2JHMYuch"}
+{"version":"7.6.86","arch":"i386","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"AlGo3z85cslcCs4L"}
+{"version":"7.6.86","arch":"amd64","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"q0zNG3gNCOInYaIG"}
+{"version":"7.6.86","arch":"armel","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"buvOmwodhCBtgnFE"}
