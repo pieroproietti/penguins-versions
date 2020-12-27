@@ -13,6 +13,7 @@
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"84VqJCJOi5N11RRh"}
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"9iirsTU9c3SobdOB"}
 {"version":"7.6.70","arch":"amd64","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"AKI3SPYRmsaSEKW5"}
+{"version":"7.6.86","arch":"i386","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"AlGo3z85cslcCs4L"}
 {"version":"7.6.72","arch":"i386","changelog":"changes for site, readme, terminal sessions and so on.","_id":"LWpyb9muWCNgY2DJ"}
 {"version":"7.6.85","arch":"i386","changelog":"new configuration and new cli install","_id":"PXt7FmHtIHOyiR0X"}
 {"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
@@ -23,11 +24,13 @@
 {"version":"7.6.76","arch":"amd64","changelog":"introducing basket update, removed documents from packages","_id":"Vmz8DZfGMXZBFjEe"}
 {"version":"7.6.70","arch":"i386","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"W5ojFI1kfIDB6wix"}
 {"version":"7.6.81","arch":"amd64","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"ZIaI9XXx9rhlcOQn"}
+{"version":"7.6.86","arch":"armel","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"buvOmwodhCBtgnFE"}
 {"version":"7.6.78","arch":"i386","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"edjGywNhKMEK0diy"}
 {"version":"7.6.83","arch":"armel","changelog":"reintroduced armel arch; info now show running mode","_id":"h2zOx872bn0hPeG5"}
 {"version":"7.6.72","arch":"amd64","changelog":"changes for site, readme, terminal sessions and so on.","_id":"iNkelYDpl6g7dTIX"}
 {"version":"7.6.82","arch":"amd64","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"lPslC0bGC5tBodDt"}
 {"version":"7.6.77","arch":"amd64","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"nEyIl8CyGT62eriI"}
+{"version":"7.6.86","arch":"amd64","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"q0zNG3gNCOInYaIG"}
 {"version":"7.6.85","arch":"armel","changelog":"new configuration and new cli install","_id":"q8Sh0Agp2JHMYuch"}
 {"version":"7.6.83","arch":"amd64","changelog":"reintroduced armel arch; info now show running mode","_id":"rrhMxkWWEsd724Wj"}
 {"version":"7.6.65","arch":"i386","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"sKwSAj3MvnHzywpT"}
@@ -36,6 +39,6 @@
 {"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.6.86","arch":"i386","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"AlGo3z85cslcCs4L"}
-{"version":"7.6.86","arch":"amd64","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"q0zNG3gNCOInYaIG"}
-{"version":"7.6.86","arch":"armel","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"buvOmwodhCBtgnFE"}
+{"version":"7.6.89","arch":"amd64","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"KDn1yQj4YBQ50aGT"}
+{"version":"7.6.89","arch":"i386","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"FxNVlWFFmhNB3EJF"}
+{"version":"7.6.89","arch":"armel","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"GvfsfJDKx7seXWEz"}
