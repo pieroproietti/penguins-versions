@@ -16,8 +16,11 @@
 {"version":"7.6.86","arch":"i386","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"AlGo3z85cslcCs4L"}
 {"version":"7.6.88","arch":"i386","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"FxNVlWFFmhNB3EJF"}
 {"version":"7.6.88","arch":"armel","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"GvfsfJDKx7seXWEz"}
+{"version":"7.7.0","arch":"armel","changelog":"added bash autocomplete","_id":"IcgxG8bUMHoLC2yy"}
 {"version":"7.6.88","arch":"amd64","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"KDn1yQj4YBQ50aGT"}
+{"version":"7.7.0","arch":"amd64","changelog":"added bash autocomplete","_id":"KpUtRtd9OwjGNy0m"}
 {"version":"7.6.72","arch":"i386","changelog":"changes for site, readme, terminal sessions and so on.","_id":"LWpyb9muWCNgY2DJ"}
+{"version":"7.7.0","arch":"i386","changelog":"added bash autocomplete","_id":"NrZHnDye1H7wcEEv"}
 {"version":"7.6.85","arch":"i386","changelog":"new configuration and new cli install","_id":"PXt7FmHtIHOyiR0X"}
 {"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
 {"version":"7.6.74","arch":"i386","changelog":"introducing basket update","_id":"QTT4pwXYiz2bXdZS"}
@@ -42,6 +45,6 @@
 {"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.7.0","arch":"armel","changelog":"added bash autocomplete","_id":"IcgxG8bUMHoLC2yy"}
-{"version":"7.7.0","arch":"amd64","changelog":"added bash autocomplete","_id":"KpUtRtd9OwjGNy0m"}
-{"version":"7.7.0","arch":"i386","changelog":"added bash autocomplete","_id":"NrZHnDye1H7wcEEv"}
+{"version":"7.7.3","arch":"i386","changelog":"fixed annoying bug in option safe booting from livecd","_id":"uKdRgvw4KpLvEkjQ"}
+{"version":"7.7.3","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
+{"version":"7.7.3","arch":"armel","changelog":"fixed annoying bug in option safe booting from livecd","_id":"HxZHNaL5fXda8vfx"}
