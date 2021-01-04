@@ -48,6 +48,6 @@
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
 {"version":"7.7.3","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.7.4","arch":"armel","changelog":"added guadalinex theme","_id":"tP8IMOQW1PfIv7mn"}
-{"version":"7.7.4","arch":"i386","changelog":"added guadalinex theme","_id":"BjH6tvNTjtfbLtI2"}
-{"version":"7.7.4","arch":"amd64","changelog":"added guadalinex theme","_id":"0YDXULTpOwl85RgK"}
+{"version":"7.7.4","arch":"amd64","changelog":"added guadalinex theme","_id":"tap8izO5yyEfGUVX"}
+{"version":"7.7.4","arch":"i386","changelog":"added guadalinex theme","_id":"agYEgJ9lJHgEscOC"}
+{"version":"7.7.4","arch":"armel","changelog":"added guadalinex theme","_id":"CDXTa9KsosQVN8En"}
