@@ -1,8 +1,10 @@
+{"version":"7.7.23","arch":"i386","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"0I8aPVgZqmw41H7b"}
 {"version":"7.6.61","arch":"amd64","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU01"}
 {"version":"7.6.61","arch":"i386","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU02"}
 {"version":"7.6.60","arch":"i386","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUt1"}
 {"version":"7.6.60","arch":"amd64","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUtO"}
 {"version":"7.6.80","arch":"i386","changelog":"displays the command flags","_id":"1OtAKTmUua8f3eXh"}
+{"version":"7.7.23","arch":"armel","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"1sGndi6c0p3P1vNZ"}
 {"version":"7.6.63","arch":"i386","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"1uszTQR4WTa3w0i4"}
 {"version":"7.6.73","arch":"amd64","changelog":"finishing touches in update: show sources and versions","_id":"26slUQ1SLhK1V4Lp"}
 {"version":"7.6.59","arch":"amd64","changelog":"test","_id":"3fXRzmgCNgQrGAAd"}
@@ -30,6 +32,7 @@
 {"version":"7.7.00","arch":"amd64","changelog":"added bash autocomplete","_id":"KpUtRtd9OwjGNy0m"}
 {"version":"7.6.72","arch":"i386","changelog":"changes for site, readme, terminal sessions and so on.","_id":"LWpyb9muWCNgY2DJ"}
 {"version":"7.7.06","arch":"amd64","changelog":"added command mom a gui helper for reproductive eggs","_id":"Lpr2HUnGfkix19vT"}
+{"version":"7.7.23","arch":"amd64","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"NFGF0Pb0EZ8UEbMN"}
 {"version":"7.7.00","arch":"i386","changelog":"added bash autocomplete","_id":"NrZHnDye1H7wcEEv"}
 {"version":"7.7.16","arch":"armel","changelog":"little bug fix in mom and mom-cli to let install and use of man","_id":"PBwzlEocrvKu9rtk"}
 {"version":"7.6.85","arch":"i386","changelog":"new configuration and new cli install","_id":"PXt7FmHtIHOyiR0X"}
@@ -81,6 +84,5 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.7.23","arch":"i386","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"0I8aPVgZqmw41H7b"}
-{"version":"7.7.23","arch":"amd64","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"NFGF0Pb0EZ8UEbMN"}
-{"version":"7.7.23","arch":"armel","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"1sGndi6c0p3P1vNZ"}
+{"version":"7.7.24","arch":"amd64","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"gq3NQxigKc7OWaj5"}
+{"version":"7.7.24","arch":"armel","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"XRaYpqpliAXX2Esv"}
