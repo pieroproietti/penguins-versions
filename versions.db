@@ -10,6 +10,7 @@
 {"version":"7.6.73","arch":"amd64","changelog":"finishing touches in update: show sources and versions","_id":"26slUQ1SLhK1V4Lp"}
 {"version":"7.6.59","arch":"amd64","changelog":"test","_id":"3fXRzmgCNgQrGAAd"}
 {"version":"7.6.65","arch":"amd64","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"3qREKj8dScRUUTtS"}
+{"version":"7.7.28","arch":"armel","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"4HwvLYlWiUzjaMNs"}
 {"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
 {"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
 {"version":"7.6.77","arch":"i386","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"7vshOuymUPnN9Lev"}
@@ -25,6 +26,7 @@
 {"version":"7.7.09","arch":"i386","changelog":"install system without internet update just yolk","_id":"GHFVwieBQ3oD39z3"}
 {"version":"7.6.88","arch":"armel","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"GvfsfJDKx7seXWEz"}
 {"version":"7.7.17","arch":"i386","changelog":"resolved bug yolk and machine-id","_id":"HoEVxi10neRdELDT"}
+{"version":"7.7.28","arch":"amd64","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"HoxRlECkeNs2xULO"}
 {"version":"7.7.03","arch":"armel","changelog":"fixed annoying bug in option safe booting from livecd","_id":"HxZHNaL5fXda8vfx"}
 {"version":"7.7.00","arch":"armel","changelog":"added bash autocomplete","_id":"IcgxG8bUMHoLC2yy"}
 {"version":"7.7.16","arch":"i386","changelog":"little bug fix in mom and mom-cli to let install and use of man","_id":"JH7fp8egYpWKHe4F"}
@@ -88,5 +90,4 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.7.28","arch":"amd64","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"HoxRlECkeNs2xULO"}
-{"version":"7.7.28","arch":"armel","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"4HwvLYlWiUzjaMNs"}
+{"version":"i386","arch":"7.7.28","changelog":"added prefix in produce mom get you original manual and translations at your fingertips","_id":"wkWOojViGKGKAKWS"}
