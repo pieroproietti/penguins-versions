@@ -3,6 +3,7 @@
 {"version":"7.6.61","arch":"i386","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU02"}
 {"version":"7.6.60","arch":"i386","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUt1"}
 {"version":"7.6.60","arch":"amd64","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUtO"}
+{"version":"7.7.27","arch":"armel","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"1IhymyZ5g3uzPfbK"}
 {"version":"7.6.80","arch":"i386","changelog":"displays the command flags","_id":"1OtAKTmUua8f3eXh"}
 {"version":"7.7.23","arch":"armel","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"1sGndi6c0p3P1vNZ"}
 {"version":"7.6.63","arch":"i386","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"1uszTQR4WTa3w0i4"}
@@ -52,6 +53,7 @@
 {"version":"7.7.07","arch":"amd64","changelog":"added command dad expanded mom both gui cli helpers for reproductive eggs","_id":"bWTk4JRPETujapip"}
 {"version":"7.6.86","arch":"armel","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"buvOmwodhCBtgnFE"}
 {"version":"7.7.07","arch":"armel","changelog":"added command dad expanded mom both gui cli helpers for reproductive eggs","_id":"cSOs7pqFKWM37kto"}
+{"version":"7.7.27","arch":"amd64","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"caA3blJ0smqShj0U"}
 {"version":"7.6.78","arch":"i386","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"edjGywNhKMEK0diy"}
 {"version":"7.7.24","arch":"amd64","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"gq3NQxigKc7OWaj5"}
 {"version":"7.6.83","arch":"armel","changelog":"reintroduced armel arch; info now show running mode","_id":"h2zOx872bn0hPeG5"}
@@ -86,5 +88,5 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.7.27","arch":"amd64","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"caA3blJ0smqShj0U"}
-{"version":"7.7.27","arch":"armel","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"1IhymyZ5g3uzPfbK"}
+{"version":"7.7.28","arch":"amd64","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"HoxRlECkeNs2xULO"}
+{"version":"7.7.28","arch":"armel","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"4HwvLYlWiUzjaMNs"}
