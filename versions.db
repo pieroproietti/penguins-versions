@@ -83,6 +83,7 @@
 {"version":"7.7.21","arch":"armel","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"wJoapNeKw7fYptoY"}
 {"version":"7.7.18","arch":"armel","changelog":"added Linux Mint 20.1 ulyssa","_id":"wT6XxbH93NJccNrd"}
 {"version":"7.7.17","arch":"armel","changelog":"resolved bug yolk and machine-id","_id":"wirl3SYwGSmMDLy9"}
+{"version":"i386","arch":"7.7.28","changelog":"added prefix in produce mom get you original manual and translations at your fingertips","_id":"wkWOojViGKGKAKWS"}
 {"version":"7.7.05","arch":"i386","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"wwQw428GDS0sQcpt"}
 {"version":"7.7.15","arch":"armel","changelog":"added command eggs tools:man. Install or remove man pages for eggs","_id":"wx2ysvPZZTmNUANL"}
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
@@ -90,4 +91,6 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"i386","arch":"7.7.28","changelog":"added prefix in produce mom get you original manual and translations at your fingertips","_id":"wkWOojViGKGKAKWS"}
+{"version":"7.7.29","arch":"i386","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"SHqAQxo8G8U7XwgF"}
+{"version":"7.7.29","arch":"armel","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"ZFksuPYJ7GXxGxrN"}
+{"version":"7.7.29","arch":"amd64","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"rpupWtdMu2tdocfF"}
