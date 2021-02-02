@@ -13,6 +13,7 @@
 {"version":"7.7.28","arch":"armel","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"4HwvLYlWiUzjaMNs"}
 {"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
 {"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
+{"version":"7.7.30","arch":"i386","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"5eHmKFFK4aHgU8T5"}
 {"version":"7.6.77","arch":"i386","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"7vshOuymUPnN9Lev"}
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"84VqJCJOi5N11RRh"}
 {"version":"7.7.05","arch":"amd64","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"8GvVc0iWHFv0jSUe"}
@@ -23,6 +24,7 @@
 {"version":"7.7.18","arch":"i386","changelog":"added Linux Mint 20.1 ulyssa","_id":"CJPCzwFtfJ2lM6Xu"}
 {"version":"7.7.05","arch":"armel","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"FtK7WIdkqA4Vrl44"}
 {"version":"7.6.88","arch":"i386","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"FxNVlWFFmhNB3EJF"}
+{"version":"7.7.30","arch":"armel","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"FyXYV1rVcdUPGwWN"}
 {"version":"7.7.09","arch":"i386","changelog":"install system without internet update just yolk","_id":"GHFVwieBQ3oD39z3"}
 {"version":"7.6.88","arch":"armel","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"GvfsfJDKx7seXWEz"}
 {"version":"7.7.17","arch":"i386","changelog":"resolved bug yolk and machine-id","_id":"HoEVxi10neRdELDT"}
@@ -49,6 +51,7 @@
 {"version":"7.6.70","arch":"i386","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"W5ojFI1kfIDB6wix"}
 {"version":"7.7.24","arch":"armel","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"XRaYpqpliAXX2Esv"}
 {"version":"7.7.17","arch":"amd64","changelog":"resolved bug yolk and machine-id","_id":"Xv6DlAmV69oddEkL"}
+{"version":"7.7.30","arch":"amd64","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"Y7wnGHVDX45CkWGk"}
 {"version":"7.7.08","arch":"i386","changelog":"cleaning and bug fixes","_id":"YtE275epeDxaJTLr"}
 {"version":"7.7.29","arch":"armel","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"ZFksuPYJ7GXxGxrN"}
 {"version":"7.6.81","arch":"amd64","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"ZIaI9XXx9rhlcOQn"}
@@ -94,6 +97,6 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.7.30","arch":"i386","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"5eHmKFFK4aHgU8T5"}
-{"version":"7.7.30","arch":"amd64","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"Y7wnGHVDX45CkWGk"}
-{"version":"7.7.30","arch":"armel","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"FyXYV1rVcdUPGwWN"}
+{"version":"7.7.31","arch":"i386","changelog":"bugfix export:iso, I hope definitive!","_id":"vnTPawFpOfJmmMh9"}
+{"version":"7.7.31","arch":"amd64","changelog":"bugfix export:iso, I hope definitive!","_id":"WgbI0jjtEjprtdPX"}
+{"version":"7.7.31","arch":"armel","changelog":"bugfix export:iso, I hope definitive!","_id":"SLg45DsWJaadiD6N"}
