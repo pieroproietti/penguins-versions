@@ -44,11 +44,13 @@
 {"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
 {"version":"7.6.74","arch":"i386","changelog":"introducing basket update","_id":"QTT4pwXYiz2bXdZS"}
 {"version":"7.7.29","arch":"i386","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"SHqAQxo8G8U7XwgF"}
+{"version":"7.7.31","arch":"armel","changelog":"bugfix export:iso, I hope definitive!","_id":"SLg45DsWJaadiD6N"}
 {"version":"7.6.78","arch":"amd64","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"ST839SfPzg0YgrF0"}
 {"version":"7.6.82","arch":"i386","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"ToiO728Znwq416Py"}
 {"version":"7.6.74","arch":"amd64","changelog":"introducing basket update","_id":"UuELU11eN1jNs2Cw"}
 {"version":"7.6.76","arch":"amd64","changelog":"introducing basket update, removed documents from packages","_id":"Vmz8DZfGMXZBFjEe"}
 {"version":"7.6.70","arch":"i386","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"W5ojFI1kfIDB6wix"}
+{"version":"7.7.31","arch":"amd64","changelog":"bugfix export:iso, I hope definitive!","_id":"WgbI0jjtEjprtdPX"}
 {"version":"7.7.24","arch":"armel","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"XRaYpqpliAXX2Esv"}
 {"version":"7.7.17","arch":"amd64","changelog":"resolved bug yolk and machine-id","_id":"Xv6DlAmV69oddEkL"}
 {"version":"7.7.30","arch":"amd64","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"Y7wnGHVDX45CkWGk"}
@@ -86,6 +88,7 @@
 {"version":"7.7.03","arch":"i386","changelog":"fixed annoying bug in option safe booting from livecd","_id":"uKdRgvw4KpLvEkjQ"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
+{"version":"7.7.31","arch":"i386","changelog":"bugfix export:iso, I hope definitive!","_id":"vnTPawFpOfJmmMh9"}
 {"version":"7.7.21","arch":"armel","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"wJoapNeKw7fYptoY"}
 {"version":"7.7.18","arch":"armel","changelog":"added Linux Mint 20.1 ulyssa","_id":"wT6XxbH93NJccNrd"}
 {"version":"7.7.17","arch":"armel","changelog":"resolved bug yolk and machine-id","_id":"wirl3SYwGSmMDLy9"}
@@ -97,6 +100,7 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.7.31","arch":"i386","changelog":"bugfix export:iso, I hope definitive!","_id":"vnTPawFpOfJmmMh9"}
-{"version":"7.7.31","arch":"amd64","changelog":"bugfix export:iso, I hope definitive!","_id":"WgbI0jjtEjprtdPX"}
-{"version":"7.7.31","arch":"armel","changelog":"bugfix export:iso, I hope definitive!","_id":"SLg45DsWJaadiD6N"}
+{"version":"7.7.23","arch":"i386","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"kGzSYgHmq4rEiNQX"}
+{"version":"7.7.32","arch":"i386","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"FXY4XyaZJiLpPyUP"}
+{"version":"7.7.32","arch":"armel","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"BBb5exPklPGDip0D"}
+{"version":"7.7.32","arch":"amd64","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"Dups5WttPtquZZB4"}
