@@ -24,6 +24,7 @@
 {"version":"7.7.32","arch":"armel","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"BBb5exPklPGDip0D"}
 {"version":"7.7.04","arch":"armel","changelog":"added guadalinex theme","_id":"CDXTa9KsosQVN8En"}
 {"version":"7.7.18","arch":"i386","changelog":"added Linux Mint 20.1 ulyssa","_id":"CJPCzwFtfJ2lM6Xu"}
+{"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
 {"version":"7.7.32","arch":"amd64","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"Dups5WttPtquZZB4"}
 {"version":"7.7.32","arch":"i386","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"FXY4XyaZJiLpPyUP"}
 {"version":"7.7.05","arch":"armel","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"FtK7WIdkqA4Vrl44"}
@@ -96,6 +97,7 @@
 {"version":"7.6.65","arch":"i386","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"sKwSAj3MvnHzywpT"}
 {"version":"7.7.09","arch":"amd64","changelog":"install system without internet update just yolk","_id":"si4so1quBM61JaCq"}
 {"version":"7.6.73","arch":"i386","changelog":"finishing touches in update: show sources and versions","_id":"tYWi621ktq5jRFKN"}
+{"version":"7.8.12","arch":"i386","changelog":"added cli-autologin in naked live versions","_id":"tYbOtDpGhTpjVRVf"}
 {"version":"7.7.04","arch":"amd64","changelog":"added guadalinex theme","_id":"tap8izO5yyEfGUVX"}
 {"version":"7.7.03","arch":"i386","changelog":"fixed annoying bug in option safe booting from livecd","_id":"uKdRgvw4KpLvEkjQ"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
@@ -113,5 +115,6 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.8.12","arch":"i386","changelog":"added cli-autologin in naked live versions","_id":"tYbOtDpGhTpjVRVf"}
-{"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
+{"version":"7.8.13","arch":"i386","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"lAns7MdvUV8PmZWd"}
+{"version":"7.8.13","arch":"amd64","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"4SwG3l6xuXVeriNx"}
+{"version":"7.8.13","arch":"armel","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"a4libsU0Z1D5nylx"}
