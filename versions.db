@@ -12,6 +12,7 @@
 {"version":"7.6.59","arch":"amd64","changelog":"test","_id":"3fXRzmgCNgQrGAAd"}
 {"version":"7.6.65","arch":"amd64","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"3qREKj8dScRUUTtS"}
 {"version":"7.7.28","arch":"armel","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"4HwvLYlWiUzjaMNs"}
+{"version":"7.8.13","arch":"amd64","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"4SwG3l6xuXVeriNx"}
 {"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
 {"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
 {"version":"7.7.30","arch":"i386","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"5eHmKFFK4aHgU8T5"}
@@ -65,6 +66,7 @@
 {"version":"7.7.29","arch":"armel","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"ZFksuPYJ7GXxGxrN"}
 {"version":"7.6.81","arch":"amd64","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"ZIaI9XXx9rhlcOQn"}
 {"version":"7.7.33","arch":"armel","changelog":"added display user and password on liveCD. Most prerequisites packages are now as dependecies","_id":"ZZhohZkdPLclpOuY"}
+{"version":"7.8.13","arch":"armel","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"a4libsU0Z1D5nylx"}
 {"version":"7.8.10","arch":"amd64","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"aYxxrssKtlKiIVn9"}
 {"version":"7.7.04","arch":"i386","changelog":"added guadalinex theme","_id":"agYEgJ9lJHgEscOC"}
 {"version":"7.7.16","arch":"amd64","changelog":"little bug fix in mom and mom-cli to let install and use of man","_id":"bPWADVc0bbwFsU6f"}
@@ -84,6 +86,7 @@
 {"version":"7.7.07","arch":"i386","changelog":"added command dad expanded mom both gui cli helpers for reproductive eggs","_id":"iZ9osxzC2ALDHYoT"}
 {"version":"7.7.09","arch":"armel","changelog":"install system without internet update just yolk","_id":"jVV6CYwWdfp1JHYB"}
 {"version":"7.7.23","arch":"i386","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"kGzSYgHmq4rEiNQX"}
+{"version":"7.8.13","arch":"i386","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"lAns7MdvUV8PmZWd"}
 {"version":"7.6.82","arch":"amd64","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"lPslC0bGC5tBodDt"}
 {"version":"7.7.18","arch":"amd64","changelog":"added Linux Mint 20.1 ulyssa","_id":"lYBwDBAt0WmbHRIR"}
 {"version":"7.7.21","arch":"i386","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"m7sCb18tiffruABz"}
@@ -115,6 +118,7 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.8.13","arch":"i386","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"lAns7MdvUV8PmZWd"}
-{"version":"7.8.13","arch":"amd64","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"4SwG3l6xuXVeriNx"}
-{"version":"7.8.13","arch":"armel","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"a4libsU0Z1D5nylx"}
+{"version":"7.8.14","arch":"amd64","changelog":"added siduction to supported distros, aka: seduct from siduction!","_id":"ODYXD87bYFDuSjNt"}
+{"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
+{"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
+{"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
