@@ -46,6 +46,7 @@
 {"version":"7.7.06","arch":"amd64","changelog":"added command mom a gui helper for reproductive eggs","_id":"Lpr2HUnGfkix19vT"}
 {"version":"7.7.23","arch":"amd64","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"NFGF0Pb0EZ8UEbMN"}
 {"version":"7.7.00","arch":"i386","changelog":"added bash autocomplete","_id":"NrZHnDye1H7wcEEv"}
+{"version":"7.8.14","arch":"amd64","changelog":"added siduction to supported distros, aka: seduct from siduction!","_id":"ODYXD87bYFDuSjNt"}
 {"version":"7.7.16","arch":"armel","changelog":"little bug fix in mom and mom-cli to let install and use of man","_id":"PBwzlEocrvKu9rtk"}
 {"version":"7.6.85","arch":"i386","changelog":"new configuration and new cli install","_id":"PXt7FmHtIHOyiR0X"}
 {"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
@@ -62,6 +63,7 @@
 {"version":"7.7.24","arch":"armel","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"XRaYpqpliAXX2Esv"}
 {"version":"7.7.17","arch":"amd64","changelog":"resolved bug yolk and machine-id","_id":"Xv6DlAmV69oddEkL"}
 {"version":"7.7.30","arch":"amd64","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"Y7wnGHVDX45CkWGk"}
+{"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
 {"version":"7.7.08","arch":"i386","changelog":"cleaning and bug fixes","_id":"YtE275epeDxaJTLr"}
 {"version":"7.7.29","arch":"armel","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"ZFksuPYJ7GXxGxrN"}
 {"version":"7.6.81","arch":"amd64","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"ZIaI9XXx9rhlcOQn"}
@@ -75,6 +77,7 @@
 {"version":"7.7.07","arch":"armel","changelog":"added command dad expanded mom both gui cli helpers for reproductive eggs","_id":"cSOs7pqFKWM37kto"}
 {"version":"7.7.27","arch":"amd64","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"caA3blJ0smqShj0U"}
 {"version":"7.6.78","arch":"i386","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"edjGywNhKMEK0diy"}
+{"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
 {"version":"7.8.10","arch":"i386","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"fJjfhlCOsAD7hbox"}
 {"version":"7.7.33","arch":"i386","changelog":"added display user and password on liveCD. Most prerequisites packages are now as dependecies","_id":"fMHfgWrNjtNvqzyF"}
 {"version":"7.7.24","arch":"amd64","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"gq3NQxigKc7OWaj5"}
@@ -94,6 +97,7 @@
 {"version":"7.7.15","arch":"i386","changelog":"added command eggs tools:man. Install or remove man pages for eggs","_id":"omHjf8S2tw9kO16A"}
 {"version":"7.6.86","arch":"amd64","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"q0zNG3gNCOInYaIG"}
 {"version":"7.6.85","arch":"armel","changelog":"new configuration and new cli install","_id":"q8Sh0Agp2JHMYuch"}
+{"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
 {"version":"7.7.29","arch":"amd64","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"rpupWtdMu2tdocfF"}
 {"version":"7.6.83","arch":"amd64","changelog":"reintroduced armel arch; info now show running mode","_id":"rrhMxkWWEsd724Wj"}
 {"version":"7.7.06","arch":"armel","changelog":"added command mom a gui helper for reproductive eggs","_id":"s3aAyprLSwrD5rLm"}
@@ -118,7 +122,6 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.8.14","arch":"amd64","changelog":"added siduction to supported distros, aka: seduct from siduction!","_id":"ODYXD87bYFDuSjNt"}
-{"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
-{"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
-{"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
+{"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
+{"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
+{"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
