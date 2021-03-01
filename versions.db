@@ -16,6 +16,7 @@
 {"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
 {"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
 {"version":"7.7.30","arch":"i386","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"5eHmKFFK4aHgU8T5"}
+{"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.6.77","arch":"i386","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"7vshOuymUPnN9Lev"}
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"84VqJCJOi5N11RRh"}
 {"version":"7.7.05","arch":"amd64","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"8GvVc0iWHFv0jSUe"}
@@ -76,10 +77,12 @@
 {"version":"7.6.86","arch":"armel","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"buvOmwodhCBtgnFE"}
 {"version":"7.7.07","arch":"armel","changelog":"added command dad expanded mom both gui cli helpers for reproductive eggs","_id":"cSOs7pqFKWM37kto"}
 {"version":"7.7.27","arch":"amd64","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"caA3blJ0smqShj0U"}
+{"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
 {"version":"7.6.78","arch":"i386","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"edjGywNhKMEK0diy"}
 {"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
 {"version":"7.8.10","arch":"i386","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"fJjfhlCOsAD7hbox"}
 {"version":"7.7.33","arch":"i386","changelog":"added display user and password on liveCD. Most prerequisites packages are now as dependecies","_id":"fMHfgWrNjtNvqzyF"}
+{"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
 {"version":"7.7.24","arch":"amd64","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"gq3NQxigKc7OWaj5"}
 {"version":"7.6.83","arch":"armel","changelog":"reintroduced armel arch; info now show running mode","_id":"h2zOx872bn0hPeG5"}
 {"version":"7.8.10","arch":"armel","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"hjBHT0AwKLKS3hnn"}
@@ -122,6 +125,6 @@
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
-{"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
-{"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
-{"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
+{"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
+{"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
+{"version":"7.8.22","arch":"armel","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"s1kyGoQnqyetJ8Ut"}
