@@ -97,7 +97,9 @@
 {"version":"7.6.82","arch":"amd64","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"lPslC0bGC5tBodDt"}
 {"version":"7.7.18","arch":"amd64","changelog":"added Linux Mint 20.1 ulyssa","_id":"lYBwDBAt0WmbHRIR"}
 {"version":"7.7.21","arch":"i386","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"m7sCb18tiffruABz"}
+{"version":"7.8.23","arch":"armel","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"nDpmReiIcbWeUDiu"}
 {"version":"7.6.77","arch":"amd64","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"nEyIl8CyGT62eriI"}
+{"version":"7.8.23","arch":"i386","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"oG5qx6dCiZbvZIrD"}
 {"version":"7.7.15","arch":"i386","changelog":"added command eggs tools:man. Install or remove man pages for eggs","_id":"omHjf8S2tw9kO16A"}
 {"version":"7.6.86","arch":"amd64","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"q0zNG3gNCOInYaIG"}
 {"version":"7.6.85","arch":"armel","changelog":"new configuration and new cli install","_id":"q8Sh0Agp2JHMYuch"}
@@ -115,6 +117,7 @@
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
 {"version":"7.7.31","arch":"i386","changelog":"bugfix export:iso, I hope definitive!","_id":"vnTPawFpOfJmmMh9"}
+{"version":"7.8.23","arch":"amd64","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"w8vN7fulTZhnFSrC"}
 {"version":"7.7.21","arch":"armel","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"wJoapNeKw7fYptoY"}
 {"version":"7.7.18","arch":"armel","changelog":"added Linux Mint 20.1 ulyssa","_id":"wT6XxbH93NJccNrd"}
 {"version":"7.7.17","arch":"armel","changelog":"resolved bug yolk and machine-id","_id":"wirl3SYwGSmMDLy9"}
@@ -128,6 +131,6 @@
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
-{"version":"7.8.23","arch":"i386","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"oG5qx6dCiZbvZIrD"}
-{"version":"7.8.23","arch":"armel","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"nDpmReiIcbWeUDiu"}
-{"version":"7.8.23","arch":"amd64","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"w8vN7fulTZhnFSrC"}
+{"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
+{"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
+{"version":"7.8.24","arch":"armel","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"tmX9z9YGLBQRzVCR"}
