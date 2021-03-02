@@ -58,6 +58,7 @@
 {"version":"7.8.11","arch":"amd64","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"T01hVGnNFFIYZWzf"}
 {"version":"7.6.82","arch":"i386","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"ToiO728Znwq416Py"}
 {"version":"7.6.74","arch":"amd64","changelog":"introducing basket update","_id":"UuELU11eN1jNs2Cw"}
+{"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
 {"version":"7.6.76","arch":"amd64","changelog":"introducing basket update, removed documents from packages","_id":"Vmz8DZfGMXZBFjEe"}
 {"version":"7.6.70","arch":"i386","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"W5ojFI1kfIDB6wix"}
 {"version":"7.7.31","arch":"amd64","changelog":"bugfix export:iso, I hope definitive!","_id":"WgbI0jjtEjprtdPX"}
@@ -103,6 +104,7 @@
 {"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
 {"version":"7.7.29","arch":"amd64","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"rpupWtdMu2tdocfF"}
 {"version":"7.6.83","arch":"amd64","changelog":"reintroduced armel arch; info now show running mode","_id":"rrhMxkWWEsd724Wj"}
+{"version":"7.8.22","arch":"armel","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"s1kyGoQnqyetJ8Ut"}
 {"version":"7.7.06","arch":"armel","changelog":"added command mom a gui helper for reproductive eggs","_id":"s3aAyprLSwrD5rLm"}
 {"version":"7.6.65","arch":"i386","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"sKwSAj3MvnHzywpT"}
 {"version":"7.7.09","arch":"amd64","changelog":"install system without internet update just yolk","_id":"si4so1quBM61JaCq"}
@@ -126,5 +128,6 @@
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
-{"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
-{"version":"7.8.22","arch":"armel","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"s1kyGoQnqyetJ8Ut"}
+{"version":"7.8.23","arch":"i386","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"oG5qx6dCiZbvZIrD"}
+{"version":"7.8.23","arch":"armel","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"nDpmReiIcbWeUDiu"}
+{"version":"7.8.23","arch":"amd64","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"w8vN7fulTZhnFSrC"}
