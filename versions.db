@@ -52,10 +52,12 @@
 {"version":"7.6.85","arch":"i386","changelog":"new configuration and new cli install","_id":"PXt7FmHtIHOyiR0X"}
 {"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
 {"version":"7.6.74","arch":"i386","changelog":"introducing basket update","_id":"QTT4pwXYiz2bXdZS"}
+{"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
 {"version":"7.7.29","arch":"i386","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"SHqAQxo8G8U7XwgF"}
 {"version":"7.7.31","arch":"armel","changelog":"bugfix export:iso, I hope definitive!","_id":"SLg45DsWJaadiD6N"}
 {"version":"7.6.78","arch":"amd64","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"ST839SfPzg0YgrF0"}
 {"version":"7.8.11","arch":"amd64","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"T01hVGnNFFIYZWzf"}
+{"version":"7.8.25","arch":"amd64","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"TF28cPJ2AGaYEVrJ"}
 {"version":"7.6.82","arch":"i386","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"ToiO728Znwq416Py"}
 {"version":"7.6.74","arch":"amd64","changelog":"introducing basket update","_id":"UuELU11eN1jNs2Cw"}
 {"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
@@ -118,6 +120,7 @@
 {"version":"7.7.03","arch":"i386","changelog":"fixed annoying bug in option safe booting from livecd","_id":"uKdRgvw4KpLvEkjQ"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
+{"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
 {"version":"7.7.31","arch":"i386","changelog":"bugfix export:iso, I hope definitive!","_id":"vnTPawFpOfJmmMh9"}
 {"version":"7.8.23","arch":"amd64","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"w8vN7fulTZhnFSrC"}
 {"version":"7.7.21","arch":"armel","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"wJoapNeKw7fYptoY"}
@@ -134,6 +137,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
-{"version":"7.8.25","arch":"amd64","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"TF28cPJ2AGaYEVrJ"}
-{"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
+{"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
+{"version":"7.8.26","arch":"amd64","changelog":"bufixes and compression filter by processor","_id":"08npMR5l79Fj0Eii"}
+{"version":"7.8.26","arch":"armel","changelog":"bufixes and compression filter by processor","_id":"sldwXvUSPg6SlTC3"}
