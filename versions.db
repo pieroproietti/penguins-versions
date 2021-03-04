@@ -1,3 +1,4 @@
+{"version":"7.8.26","arch":"amd64","changelog":"bufixes and compression filter by processor","_id":"08npMR5l79Fj0Eii"}
 {"version":"7.7.23","arch":"i386","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"0I8aPVgZqmw41H7b"}
 {"version":"7.6.61","arch":"amd64","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU01"}
 {"version":"7.6.61","arch":"i386","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU02"}
@@ -113,6 +114,7 @@
 {"version":"7.7.06","arch":"armel","changelog":"added command mom a gui helper for reproductive eggs","_id":"s3aAyprLSwrD5rLm"}
 {"version":"7.6.65","arch":"i386","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"sKwSAj3MvnHzywpT"}
 {"version":"7.7.09","arch":"amd64","changelog":"install system without internet update just yolk","_id":"si4so1quBM61JaCq"}
+{"version":"7.8.26","arch":"armel","changelog":"bufixes and compression filter by processor","_id":"sldwXvUSPg6SlTC3"}
 {"version":"7.6.73","arch":"i386","changelog":"finishing touches in update: show sources and versions","_id":"tYWi621ktq5jRFKN"}
 {"version":"7.8.12","arch":"i386","changelog":"added cli-autologin in naked live versions","_id":"tYbOtDpGhTpjVRVf"}
 {"version":"7.7.04","arch":"amd64","changelog":"added guadalinex theme","_id":"tap8izO5yyEfGUVX"}
@@ -121,6 +123,7 @@
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
+{"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
 {"version":"7.7.31","arch":"i386","changelog":"bugfix export:iso, I hope definitive!","_id":"vnTPawFpOfJmmMh9"}
 {"version":"7.8.23","arch":"amd64","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"w8vN7fulTZhnFSrC"}
 {"version":"7.7.21","arch":"armel","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"wJoapNeKw7fYptoY"}
@@ -137,6 +140,7 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
-{"version":"7.8.26","arch":"amd64","changelog":"bufixes and compression filter by processor","_id":"08npMR5l79Fj0Eii"}
-{"version":"7.8.26","arch":"armel","changelog":"bufixes and compression filter by processor","_id":"sldwXvUSPg6SlTC3"}
+{"version":"7.8.24","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"TKYJo2sPNYGHOyQ0"}
+{"version":"7.8.27","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"eN1fkEk6WrhnIBZV"}
+{"version":"7.8.27","arch":"armel","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"ogOZjFN8BQYCWz3k"}
+{"version":"7.8.27","arch":"amd64","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"lV1OPAqvbN3NQTvt"}
