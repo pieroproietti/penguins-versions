@@ -46,6 +46,7 @@
 {"version":"7.7.00","arch":"amd64","changelog":"added bash autocomplete","_id":"KpUtRtd9OwjGNy0m"}
 {"version":"7.6.72","arch":"i386","changelog":"changes for site, readme, terminal sessions and so on.","_id":"LWpyb9muWCNgY2DJ"}
 {"version":"7.7.06","arch":"amd64","changelog":"added command mom a gui helper for reproductive eggs","_id":"Lpr2HUnGfkix19vT"}
+{"version":"7.8.29","arch":"i386","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"MdlyxeJP8XmG6lPR"}
 {"version":"7.7.23","arch":"amd64","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"NFGF0Pb0EZ8UEbMN"}
 {"version":"7.7.00","arch":"i386","changelog":"added bash autocomplete","_id":"NrZHnDye1H7wcEEv"}
 {"version":"7.8.14","arch":"amd64","changelog":"added siduction to supported distros, aka: seduct from siduction!","_id":"ODYXD87bYFDuSjNt"}
@@ -54,6 +55,7 @@
 {"version":"7.6.79","arch":"amd64","changelog":"mx-installer starting to work (experimental)","_id":"Q25ZyRwkuLNJNHgY"}
 {"version":"7.6.74","arch":"i386","changelog":"introducing basket update","_id":"QTT4pwXYiz2bXdZS"}
 {"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
+{"version":"7.8.29","arch":"armel","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"Rhkzy5vEhjn3NOQh"}
 {"version":"7.7.29","arch":"i386","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"SHqAQxo8G8U7XwgF"}
 {"version":"7.7.31","arch":"armel","changelog":"bugfix export:iso, I hope definitive!","_id":"SLg45DsWJaadiD6N"}
 {"version":"7.6.78","arch":"amd64","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"ST839SfPzg0YgrF0"}
@@ -141,9 +143,10 @@
 {"version":"7.7.21","arch":"amd64","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"yVFt8xnIkhFMBiE5"}
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
 {"version":"7.7.03","arch":"amd64","changelog":"fixed annoying bug in option safe booting from livecd","_id":"z9xX8gwVq7SmyvIp"}
+{"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
-{"version":"7.8.29","arch":"i386","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"MdlyxeJP8XmG6lPR"}
-{"version":"7.8.29","arch":"armel","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"Rhkzy5vEhjn3NOQh"}
+{"version":"7.8.30","arch":"amd64","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"na1W2tkEcdDE1tfw"}
+{"version":"7.8.30","arch":"i386","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"sm7RJkGCS1kc4390"}
+{"version":"7.8.30","arch":"armel","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"DXgEjXwrCP7jBFKA"}
