@@ -28,6 +28,7 @@
 {"version":"7.7.04","arch":"armel","changelog":"added guadalinex theme","_id":"CDXTa9KsosQVN8En"}
 {"version":"7.7.18","arch":"i386","changelog":"added Linux Mint 20.1 ulyssa","_id":"CJPCzwFtfJ2lM6Xu"}
 {"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
+{"version":"7.8.30","arch":"armel","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"DXgEjXwrCP7jBFKA"}
 {"version":"7.7.32","arch":"amd64","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"Dups5WttPtquZZB4"}
 {"version":"7.7.32","arch":"i386","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"FXY4XyaZJiLpPyUP"}
 {"version":"7.7.05","arch":"armel","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"FtK7WIdkqA4Vrl44"}
@@ -108,6 +109,7 @@
 {"version":"7.7.21","arch":"i386","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"m7sCb18tiffruABz"}
 {"version":"7.8.23","arch":"armel","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"nDpmReiIcbWeUDiu"}
 {"version":"7.6.77","arch":"amd64","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"nEyIl8CyGT62eriI"}
+{"version":"7.8.30","arch":"amd64","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"na1W2tkEcdDE1tfw"}
 {"version":"7.8.23","arch":"i386","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"oG5qx6dCiZbvZIrD"}
 {"version":"7.8.27","arch":"armel","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"ogOZjFN8BQYCWz3k"}
 {"version":"7.7.15","arch":"i386","changelog":"added command eggs tools:man. Install or remove man pages for eggs","_id":"omHjf8S2tw9kO16A"}
@@ -121,6 +123,7 @@
 {"version":"7.6.65","arch":"i386","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"sKwSAj3MvnHzywpT"}
 {"version":"7.7.09","arch":"amd64","changelog":"install system without internet update just yolk","_id":"si4so1quBM61JaCq"}
 {"version":"7.8.26","arch":"armel","changelog":"bufixes and compression filter by processor","_id":"sldwXvUSPg6SlTC3"}
+{"version":"7.8.30","arch":"i386","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"sm7RJkGCS1kc4390"}
 {"version":"7.6.73","arch":"i386","changelog":"finishing touches in update: show sources and versions","_id":"tYWi621ktq5jRFKN"}
 {"version":"7.8.12","arch":"i386","changelog":"added cli-autologin in naked live versions","_id":"tYbOtDpGhTpjVRVf"}
 {"version":"7.7.04","arch":"amd64","changelog":"added guadalinex theme","_id":"tap8izO5yyEfGUVX"}
@@ -147,6 +150,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.30","arch":"amd64","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"na1W2tkEcdDE1tfw"}
-{"version":"7.8.30","arch":"i386","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"sm7RJkGCS1kc4390"}
-{"version":"7.8.30","arch":"armel","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"DXgEjXwrCP7jBFKA"}
+{"version":"7.8.31","arch":"amd64","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"FDy6Xyyyz2oEiPKI"}
+{"version":"7.8.31","arch":"armel","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"Ff5vVLtBXxWosRUt"}
+{"version":"7.8.31","arch":"i386","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"498HrrzaMusfkuDk"}
