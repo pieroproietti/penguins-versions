@@ -12,6 +12,7 @@
 {"version":"7.7.33","arch":"amd64","changelog":"added display user and password on liveCD. Most prerequisites packages are now as dependecies","_id":"2Vl7kmvtffeSTZpP"}
 {"version":"7.6.59","arch":"amd64","changelog":"test","_id":"3fXRzmgCNgQrGAAd"}
 {"version":"7.6.65","arch":"amd64","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"3qREKj8dScRUUTtS"}
+{"version":"7.8.31","arch":"i386","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"498HrrzaMusfkuDk"}
 {"version":"7.7.28","arch":"armel","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"4HwvLYlWiUzjaMNs"}
 {"version":"7.8.13","arch":"amd64","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"4SwG3l6xuXVeriNx"}
 {"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
@@ -30,7 +31,9 @@
 {"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
 {"version":"7.8.30","arch":"armel","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"DXgEjXwrCP7jBFKA"}
 {"version":"7.7.32","arch":"amd64","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"Dups5WttPtquZZB4"}
+{"version":"7.8.31","arch":"amd64","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"FDy6Xyyyz2oEiPKI"}
 {"version":"7.7.32","arch":"i386","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"FXY4XyaZJiLpPyUP"}
+{"version":"7.8.31","arch":"armel","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"Ff5vVLtBXxWosRUt"}
 {"version":"7.7.05","arch":"armel","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"FtK7WIdkqA4Vrl44"}
 {"version":"7.6.88","arch":"i386","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"FxNVlWFFmhNB3EJF"}
 {"version":"7.7.30","arch":"armel","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"FyXYV1rVcdUPGwWN"}
@@ -150,6 +153,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.31","arch":"amd64","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"FDy6Xyyyz2oEiPKI"}
-{"version":"7.8.31","arch":"armel","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"Ff5vVLtBXxWosRUt"}
-{"version":"7.8.31","arch":"i386","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"498HrrzaMusfkuDk"}
+{"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
+{"version":"7.8.34","arch":"armel","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"XueQXyEYz29FtZCq"}
+{"version":"7.8.34","arch":"i386","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"wl7LeZJyJgfHECoW"}
