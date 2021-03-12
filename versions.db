@@ -4,6 +4,7 @@
 {"version":"7.6.61","arch":"i386","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU02"}
 {"version":"7.6.60","arch":"i386","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUt1"}
 {"version":"7.6.60","arch":"amd64","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUtO"}
+{"version":"7.8.35","arch":"amd64","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"0lUdjkDRWiel9i7G"}
 {"version":"7.7.27","arch":"armel","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"1IhymyZ5g3uzPfbK"}
 {"version":"7.6.80","arch":"i386","changelog":"displays the command flags","_id":"1OtAKTmUua8f3eXh"}
 {"version":"7.7.23","arch":"armel","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"1sGndi6c0p3P1vNZ"}
@@ -45,6 +46,7 @@
 {"version":"7.7.03","arch":"armel","changelog":"fixed annoying bug in option safe booting from livecd","_id":"HxZHNaL5fXda8vfx"}
 {"version":"7.7.00","arch":"armel","changelog":"added bash autocomplete","_id":"IcgxG8bUMHoLC2yy"}
 {"version":"7.7.16","arch":"i386","changelog":"little bug fix in mom and mom-cli to let install and use of man","_id":"JH7fp8egYpWKHe4F"}
+{"version":"7.8.35","arch":"armel","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"JaePV8WFE8tpVlBy"}
 {"version":"7.6.88","arch":"amd64","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"KDn1yQj4YBQ50aGT"}
 {"version":"7.8.11","arch":"armel","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"KMlMLAESozMGRhfK"}
 {"version":"7.7.15","arch":"amd64","changelog":"added command eggs tools:man. Install or remove man pages for eggs","_id":"Klozf2yt3tsRqxbY"}
@@ -148,6 +150,7 @@
 {"version":"7.7.05","arch":"i386","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"wwQw428GDS0sQcpt"}
 {"version":"7.7.15","arch":"armel","changelog":"added command eggs tools:man. Install or remove man pages for eggs","_id":"wx2ysvPZZTmNUANL"}
 {"version":"7.6.76","arch":"i386","changelog":"introducing basket update, removed documents from packages","_id":"xYK0sCa61eHvcKJq"}
+{"version":"7.8.35","arch":"i386","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"xjG7PQ8UYOyutnwb"}
 {"version":"7.8.11","arch":"i386","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"xrGy18iGxYvtWZL3"}
 {"version":"7.7.21","arch":"amd64","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"yVFt8xnIkhFMBiE5"}
 {"version":"7.7.08","arch":"armel","changelog":"cleaning and bug fixes","_id":"yw5jb4nxK4o86Fzq"}
@@ -156,6 +159,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.35","arch":"amd64","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"0lUdjkDRWiel9i7G"}
-{"version":"7.8.35","arch":"i386","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"xjG7PQ8UYOyutnwb"}
-{"version":"7.8.35","arch":"armel","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"JaePV8WFE8tpVlBy"}
+{"version":"7.8.36","arch":"i386","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"aYVqEfAgM6grWCXl"}
+{"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
+{"version":"7.8.36","arch":"armel","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"L2C0wi0cswo8EE7u"}
