@@ -45,12 +45,14 @@
 {"version":"7.7.28","arch":"amd64","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"HoxRlECkeNs2xULO"}
 {"version":"7.7.03","arch":"armel","changelog":"fixed annoying bug in option safe booting from livecd","_id":"HxZHNaL5fXda8vfx"}
 {"version":"7.7.00","arch":"armel","changelog":"added bash autocomplete","_id":"IcgxG8bUMHoLC2yy"}
+{"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
 {"version":"7.7.16","arch":"i386","changelog":"little bug fix in mom and mom-cli to let install and use of man","_id":"JH7fp8egYpWKHe4F"}
 {"version":"7.8.35","arch":"armel","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"JaePV8WFE8tpVlBy"}
 {"version":"7.6.88","arch":"amd64","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"KDn1yQj4YBQ50aGT"}
 {"version":"7.8.11","arch":"armel","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"KMlMLAESozMGRhfK"}
 {"version":"7.7.15","arch":"amd64","changelog":"added command eggs tools:man. Install or remove man pages for eggs","_id":"Klozf2yt3tsRqxbY"}
 {"version":"7.7.00","arch":"amd64","changelog":"added bash autocomplete","_id":"KpUtRtd9OwjGNy0m"}
+{"version":"7.8.36","arch":"armel","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"L2C0wi0cswo8EE7u"}
 {"version":"7.6.72","arch":"i386","changelog":"changes for site, readme, terminal sessions and so on.","_id":"LWpyb9muWCNgY2DJ"}
 {"version":"7.7.06","arch":"amd64","changelog":"added command mom a gui helper for reproductive eggs","_id":"Lpr2HUnGfkix19vT"}
 {"version":"7.8.29","arch":"i386","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"MdlyxeJP8XmG6lPR"}
@@ -85,6 +87,7 @@
 {"version":"7.6.81","arch":"amd64","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"ZIaI9XXx9rhlcOQn"}
 {"version":"7.7.33","arch":"armel","changelog":"added display user and password on liveCD. Most prerequisites packages are now as dependecies","_id":"ZZhohZkdPLclpOuY"}
 {"version":"7.8.13","arch":"armel","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"a4libsU0Z1D5nylx"}
+{"version":"7.8.36","arch":"i386","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"aYVqEfAgM6grWCXl"}
 {"version":"7.8.10","arch":"amd64","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"aYxxrssKtlKiIVn9"}
 {"version":"7.7.04","arch":"i386","changelog":"added guadalinex theme","_id":"agYEgJ9lJHgEscOC"}
 {"version":"7.7.16","arch":"amd64","changelog":"little bug fix in mom and mom-cli to let install and use of man","_id":"bPWADVc0bbwFsU6f"}
@@ -159,6 +162,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.36","arch":"i386","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"aYVqEfAgM6grWCXl"}
-{"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
-{"version":"7.8.36","arch":"armel","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"L2C0wi0cswo8EE7u"}
+{"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
+{"version":"7.8.37","arch":"i386","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"mem4IQIM2rxFGl2r"}
+{"version":"7.8.37","arch":"armel","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"l0cZ1iifY4XvVwBg"}
