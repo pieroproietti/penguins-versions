@@ -102,6 +102,7 @@
 {"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
 {"version":"7.8.10","arch":"i386","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"fJjfhlCOsAD7hbox"}
 {"version":"7.7.33","arch":"i386","changelog":"added display user and password on liveCD. Most prerequisites packages are now as dependecies","_id":"fMHfgWrNjtNvqzyF"}
+{"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
 {"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
 {"version":"7.7.24","arch":"amd64","changelog":"mom now only cli version. update all dependecies except js-yaml 3.14.1 - 4.0.0, but node8 don't work.","_id":"gq3NQxigKc7OWaj5"}
 {"version":"7.6.83","arch":"armel","changelog":"reintroduced armel arch; info now show running mode","_id":"h2zOx872bn0hPeG5"}
@@ -112,11 +113,13 @@
 {"version":"7.7.07","arch":"i386","changelog":"added command dad expanded mom both gui cli helpers for reproductive eggs","_id":"iZ9osxzC2ALDHYoT"}
 {"version":"7.7.09","arch":"armel","changelog":"install system without internet update just yolk","_id":"jVV6CYwWdfp1JHYB"}
 {"version":"7.7.23","arch":"i386","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"kGzSYgHmq4rEiNQX"}
+{"version":"7.8.37","arch":"armel","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"l0cZ1iifY4XvVwBg"}
 {"version":"7.8.13","arch":"i386","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"lAns7MdvUV8PmZWd"}
 {"version":"7.6.82","arch":"amd64","changelog":"fix gdm3 displaymanager in calamares configuration, export deb armel","_id":"lPslC0bGC5tBodDt"}
 {"version":"7.8.27","arch":"amd64","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"lV1OPAqvbN3NQTvt"}
 {"version":"7.7.18","arch":"amd64","changelog":"added Linux Mint 20.1 ulyssa","_id":"lYBwDBAt0WmbHRIR"}
 {"version":"7.7.21","arch":"i386","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"m7sCb18tiffruABz"}
+{"version":"7.8.37","arch":"i386","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"mem4IQIM2rxFGl2r"}
 {"version":"7.8.23","arch":"armel","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"nDpmReiIcbWeUDiu"}
 {"version":"7.6.77","arch":"amd64","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"nEyIl8CyGT62eriI"}
 {"version":"7.8.30","arch":"amd64","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"na1W2tkEcdDE1tfw"}
@@ -162,6 +165,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
-{"version":"7.8.37","arch":"i386","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"mem4IQIM2rxFGl2r"}
-{"version":"7.8.37","arch":"armel","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"l0cZ1iifY4XvVwBg"}
+{"version":"7.8.38","arch":"amd64","changelog":"working in cli installer","_id":"GQkkray7BRCdvhPU"}
+{"version":"7.8.38","arch":"i386","changelog":"working in cli installer","_id":"GizL1ptYLZAAXAYe"}
+{"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
