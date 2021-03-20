@@ -39,6 +39,8 @@
 {"version":"7.6.88","arch":"i386","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"FxNVlWFFmhNB3EJF"}
 {"version":"7.7.30","arch":"armel","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"FyXYV1rVcdUPGwWN"}
 {"version":"7.7.09","arch":"i386","changelog":"install system without internet update just yolk","_id":"GHFVwieBQ3oD39z3"}
+{"version":"7.8.38","arch":"amd64","changelog":"working in cli installer","_id":"GQkkray7BRCdvhPU"}
+{"version":"7.8.38","arch":"i386","changelog":"working in cli installer","_id":"GizL1ptYLZAAXAYe"}
 {"version":"7.6.88","arch":"armel","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"GvfsfJDKx7seXWEz"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
 {"version":"7.7.17","arch":"i386","changelog":"resolved bug yolk and machine-id","_id":"HoEVxi10neRdELDT"}
@@ -97,6 +99,7 @@
 {"version":"7.7.27","arch":"amd64","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"caA3blJ0smqShj0U"}
 {"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
 {"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
+{"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
 {"version":"7.8.27","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"eN1fkEk6WrhnIBZV"}
 {"version":"7.6.78","arch":"i386","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"edjGywNhKMEK0diy"}
 {"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
@@ -165,6 +168,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.38","arch":"amd64","changelog":"working in cli installer","_id":"GQkkray7BRCdvhPU"}
-{"version":"7.8.38","arch":"i386","changelog":"working in cli installer","_id":"GizL1ptYLZAAXAYe"}
-{"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
+{"version":"7.8.39","arch":"amd64","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"0qGafvT1WioUUSSD"}
+{"version":"7.8.39","arch":"i386","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"tihBUdsCw4LVqGgB"}
+{"version":"7.8.39","arch":"armel","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"2voDFhTVVyYApGnL"}
