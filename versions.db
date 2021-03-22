@@ -5,12 +5,14 @@
 {"version":"7.6.60","arch":"i386","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUt1"}
 {"version":"7.6.60","arch":"amd64","changelog":"* improvement:  if you installed eggs as debian package, you can now update it with sudo eggs update -i.","_id":"0THpUbcArNzyJUtO"}
 {"version":"7.8.35","arch":"amd64","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"0lUdjkDRWiel9i7G"}
+{"version":"7.8.39","arch":"amd64","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"0qGafvT1WioUUSSD"}
 {"version":"7.7.27","arch":"armel","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"1IhymyZ5g3uzPfbK"}
 {"version":"7.6.80","arch":"i386","changelog":"displays the command flags","_id":"1OtAKTmUua8f3eXh"}
 {"version":"7.7.23","arch":"armel","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"1sGndi6c0p3P1vNZ"}
 {"version":"7.6.63","arch":"i386","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"1uszTQR4WTa3w0i4"}
 {"version":"7.6.73","arch":"amd64","changelog":"finishing touches in update: show sources and versions","_id":"26slUQ1SLhK1V4Lp"}
 {"version":"7.7.33","arch":"amd64","changelog":"added display user and password on liveCD. Most prerequisites packages are now as dependecies","_id":"2Vl7kmvtffeSTZpP"}
+{"version":"7.8.39","arch":"armel","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"2voDFhTVVyYApGnL"}
 {"version":"7.6.59","arch":"amd64","changelog":"test","_id":"3fXRzmgCNgQrGAAd"}
 {"version":"7.6.65","arch":"amd64","changelog":"* update -i show the last 4 versions ordered and select the correct architecture; check presence of dpkg-packages before to run yolk","_id":"3qREKj8dScRUUTtS"}
 {"version":"7.8.31","arch":"i386","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"498HrrzaMusfkuDk"}
@@ -143,6 +145,7 @@
 {"version":"7.6.73","arch":"i386","changelog":"finishing touches in update: show sources and versions","_id":"tYWi621ktq5jRFKN"}
 {"version":"7.8.12","arch":"i386","changelog":"added cli-autologin in naked live versions","_id":"tYbOtDpGhTpjVRVf"}
 {"version":"7.7.04","arch":"amd64","changelog":"added guadalinex theme","_id":"tap8izO5yyEfGUVX"}
+{"version":"7.8.39","arch":"i386","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"tihBUdsCw4LVqGgB"}
 {"version":"7.8.24","arch":"armel","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"tmX9z9YGLBQRzVCR"}
 {"version":"7.7.03","arch":"i386","changelog":"fixed annoying bug in option safe booting from livecd","_id":"uKdRgvw4KpLvEkjQ"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
@@ -168,6 +171,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.39","arch":"amd64","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"0qGafvT1WioUUSSD"}
-{"version":"7.8.39","arch":"i386","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"tihBUdsCw4LVqGgB"}
-{"version":"7.8.39","arch":"armel","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"2voDFhTVVyYApGnL"}
+{"version":"7.8.40","arch":"amd64","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"SAqUzGTaDhXdOuB2"}
+{"version":"7.8.40","arch":"armel","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"hvcgcOWDtjn3OqKh"}
+{"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
