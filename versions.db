@@ -69,6 +69,7 @@
 {"version":"7.6.74","arch":"i386","changelog":"introducing basket update","_id":"QTT4pwXYiz2bXdZS"}
 {"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
 {"version":"7.8.29","arch":"armel","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"Rhkzy5vEhjn3NOQh"}
+{"version":"7.8.40","arch":"amd64","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"SAqUzGTaDhXdOuB2"}
 {"version":"7.7.29","arch":"i386","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"SHqAQxo8G8U7XwgF"}
 {"version":"7.7.31","arch":"armel","changelog":"bugfix export:iso, I hope definitive!","_id":"SLg45DsWJaadiD6N"}
 {"version":"7.6.78","arch":"amd64","changelog":"solved permissions problems in  tmp, mxlinux now install with calamares, trying to become mx-installer compatible","_id":"ST839SfPzg0YgrF0"}
@@ -99,6 +100,7 @@
 {"version":"7.6.86","arch":"armel","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"buvOmwodhCBtgnFE"}
 {"version":"7.7.07","arch":"armel","changelog":"added command dad expanded mom both gui cli helpers for reproductive eggs","_id":"cSOs7pqFKWM37kto"}
 {"version":"7.7.27","arch":"amd64","changelog":"* eggs init in place of prerequisites. The new version will install man and aucomplete. Sorry, due nodejs version, I forced to remove i386 version","_id":"caA3blJ0smqShj0U"}
+{"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
 {"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
 {"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
 {"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
@@ -113,6 +115,7 @@
 {"version":"7.6.83","arch":"armel","changelog":"reintroduced armel arch; info now show running mode","_id":"h2zOx872bn0hPeG5"}
 {"version":"7.8.10","arch":"armel","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"hjBHT0AwKLKS3hnn"}
 {"version":"7.7.06","arch":"i386","changelog":"added command mom a gui helper for reproductive eggs","_id":"hqjkWlccw4STadFg"}
+{"version":"7.8.40","arch":"armel","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"hvcgcOWDtjn3OqKh"}
 {"version":"7.7.08","arch":"amd64","changelog":"cleaning and bug fixes","_id":"iFuKmKgHcJ0vLLP8"}
 {"version":"7.6.72","arch":"amd64","changelog":"changes for site, readme, terminal sessions and so on.","_id":"iNkelYDpl6g7dTIX"}
 {"version":"7.7.07","arch":"i386","changelog":"added command dad expanded mom both gui cli helpers for reproductive eggs","_id":"iZ9osxzC2ALDHYoT"}
@@ -171,6 +174,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.40","arch":"amd64","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"SAqUzGTaDhXdOuB2"}
-{"version":"7.8.40","arch":"armel","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"hvcgcOWDtjn3OqKh"}
-{"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
+{"version":"7.8.41","arch":"i386","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"rPkeoDGL8y0SbKGF"}
+{"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
+{"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
