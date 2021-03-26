@@ -22,6 +22,7 @@
 {"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
 {"version":"7.7.30","arch":"i386","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"5eHmKFFK4aHgU8T5"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
+{"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
 {"version":"7.6.77","arch":"i386","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"7vshOuymUPnN9Lev"}
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"84VqJCJOi5N11RRh"}
 {"version":"7.7.05","arch":"amd64","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"8GvVc0iWHFv0jSUe"}
@@ -29,6 +30,7 @@
 {"version":"7.6.70","arch":"amd64","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"AKI3SPYRmsaSEKW5"}
 {"version":"7.6.86","arch":"i386","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"AlGo3z85cslcCs4L"}
 {"version":"7.7.32","arch":"armel","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"BBb5exPklPGDip0D"}
+{"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
 {"version":"7.7.04","arch":"armel","changelog":"added guadalinex theme","_id":"CDXTa9KsosQVN8En"}
 {"version":"7.7.18","arch":"i386","changelog":"added Linux Mint 20.1 ulyssa","_id":"CJPCzwFtfJ2lM6Xu"}
 {"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
@@ -136,6 +138,7 @@
 {"version":"7.7.15","arch":"i386","changelog":"added command eggs tools:man. Install or remove man pages for eggs","_id":"omHjf8S2tw9kO16A"}
 {"version":"7.6.86","arch":"amd64","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"q0zNG3gNCOInYaIG"}
 {"version":"7.6.85","arch":"armel","changelog":"new configuration and new cli install","_id":"q8Sh0Agp2JHMYuch"}
+{"version":"7.8.41","arch":"i386","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"rPkeoDGL8y0SbKGF"}
 {"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
 {"version":"7.7.29","arch":"amd64","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"rpupWtdMu2tdocfF"}
 {"version":"7.6.83","arch":"amd64","changelog":"reintroduced armel arch; info now show running mode","_id":"rrhMxkWWEsd724Wj"}
@@ -174,6 +177,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.41","arch":"i386","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"rPkeoDGL8y0SbKGF"}
-{"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
-{"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
+{"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
+{"version":"7.8.42","arch":"amd64","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"NAQ2AEC5qEPDX2rp"}
+{"version":"7.8.42","arch":"armel","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"UjxnqNW98glvz0JA"}
