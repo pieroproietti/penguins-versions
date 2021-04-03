@@ -29,6 +29,7 @@
 {"version":"7.7.05","arch":"amd64","changelog":"bugfix in bullseye and deepin to not confuse versions","_id":"8GvVc0iWHFv0jSUe"}
 {"version":"7.6.63","arch":"amd64","changelog":"* remake configuration of calamares for bullseye, be careful with lsb_release in bullseye otherwise UEFI boot will not work","_id":"9iirsTU9c3SobdOB"}
 {"version":"7.6.70","arch":"amd64","changelog":"* finally eggs is again able to remaster and install the naked version (without graphical interface) of your system.","_id":"AKI3SPYRmsaSEKW5"}
+{"version":"7.8.43","arch":"i386","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"AaeiJbbGhZnLxY8T"}
 {"version":"7.6.86","arch":"i386","changelog":"changed commands prerequisites and renamed sterilize as remove, added different flags.","_id":"AlGo3z85cslcCs4L"}
 {"version":"7.7.32","arch":"armel","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"BBb5exPklPGDip0D"}
 {"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
@@ -93,6 +94,7 @@
 {"version":"7.7.30","arch":"amd64","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"Y7wnGHVDX45CkWGk"}
 {"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
 {"version":"7.7.08","arch":"i386","changelog":"cleaning and bug fixes","_id":"YtE275epeDxaJTLr"}
+{"version":"7.8.43","arch":"armel","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"Z3ADGIDiLrmPcgkT"}
 {"version":"7.7.29","arch":"armel","changelog":"workaround to solve problems compatility oclif-plugings with node8, actually all commands works on i386, except autocomplete and command-not-found.","_id":"ZFksuPYJ7GXxGxrN"}
 {"version":"7.6.81","arch":"amd64","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"ZIaI9XXx9rhlcOQn"}
 {"version":"7.7.33","arch":"armel","changelog":"added display user and password on liveCD. Most prerequisites packages are now as dependecies","_id":"ZZhohZkdPLclpOuY"}
@@ -132,6 +134,7 @@
 {"version":"7.8.27","arch":"amd64","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"lV1OPAqvbN3NQTvt"}
 {"version":"7.7.18","arch":"amd64","changelog":"added Linux Mint 20.1 ulyssa","_id":"lYBwDBAt0WmbHRIR"}
 {"version":"7.7.21","arch":"i386","changelog":"* bugfix eggs.yaml, refactoring settings. Now we have theme saved in dad, and others vars are possible","_id":"m7sCb18tiffruABz"}
+{"version":"7.8.43","arch":"amd64","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"mGLDsd4LiPK7ZHEa"}
 {"version":"7.8.37","arch":"i386","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"mem4IQIM2rxFGl2r"}
 {"version":"7.8.23","arch":"armel","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"nDpmReiIcbWeUDiu"}
 {"version":"7.6.77","arch":"amd64","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"nEyIl8CyGT62eriI"}
@@ -180,6 +183,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.43","arch":"amd64","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"mGLDsd4LiPK7ZHEa"}
-{"version":"7.8.43","arch":"i386","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"AaeiJbbGhZnLxY8T"}
-{"version":"7.8.43","arch":"armel","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"Z3ADGIDiLrmPcgkT"}
+{"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
+{"version":"7.8.44","arch":"i386","changelog":"added theme neon, revisited theme eggs","_id":"4y9A4xMtCgL7NXVD"}
+{"version":"7.8.44","arch":"armel","changelog":"added theme neon, revisited theme eggs","_id":"uSMTtCRemBjPxu4u"}
