@@ -20,8 +20,10 @@
 {"version":"7.8.13","arch":"amd64","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"4SwG3l6xuXVeriNx"}
 {"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
 {"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
+{"version":"7.8.44","arch":"i386","changelog":"added theme neon, revisited theme eggs","_id":"4y9A4xMtCgL7NXVD"}
 {"version":"7.7.30","arch":"i386","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"5eHmKFFK4aHgU8T5"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
+{"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
 {"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
 {"version":"7.6.77","arch":"i386","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"7vshOuymUPnN9Lev"}
@@ -160,6 +162,7 @@
 {"version":"7.8.39","arch":"i386","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"tihBUdsCw4LVqGgB"}
 {"version":"7.8.24","arch":"armel","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"tmX9z9YGLBQRzVCR"}
 {"version":"7.7.03","arch":"i386","changelog":"fixed annoying bug in option safe booting from livecd","_id":"uKdRgvw4KpLvEkjQ"}
+{"version":"7.8.44","arch":"armel","changelog":"added theme neon, revisited theme eggs","_id":"uSMTtCRemBjPxu4u"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"7.6.85","arch":"amd64","changelog":"new configuration and new cli install","_id":"ujBhGLwhlHrfFzQr"}
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
@@ -183,6 +186,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
-{"version":"7.8.44","arch":"i386","changelog":"added theme neon, revisited theme eggs","_id":"4y9A4xMtCgL7NXVD"}
-{"version":"7.8.44","arch":"armel","changelog":"added theme neon, revisited theme eggs","_id":"uSMTtCRemBjPxu4u"}
+{"version":"7.8.45","arch":"amd64","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"whdxl0L4PGDTcG5T"}
+{"version":"7.8.45","arch":"armel","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"9sPba4Wz8bdMEWnB"}
+{"version":"7.8.45","arch":"i386","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"pgWdZcR21EAyJCnx"}
