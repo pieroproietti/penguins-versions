@@ -21,6 +21,7 @@
 {"version":"7.6.81","arch":"i386","changelog":"restored debian theme for calamares, check install-debian, clean flags usage in export","_id":"4X1VdaFR6v4STYoP"}
 {"version":"7.6.79","arch":"i386","changelog":"mx-installer starting to work (experimental)","_id":"4bLBMoXQBu3u259V"}
 {"version":"7.8.44","arch":"i386","changelog":"added theme neon, revisited theme eggs","_id":"4y9A4xMtCgL7NXVD"}
+{"version":"7.8.46","arch":"armel","changelog":"checking and rewriting eggs tools:skel","_id":"5FBg786JN1QQwiTd"}
 {"version":"7.7.30","arch":"i386","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"5eHmKFFK4aHgU8T5"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
@@ -41,6 +42,7 @@
 {"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
 {"version":"7.8.30","arch":"armel","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"DXgEjXwrCP7jBFKA"}
 {"version":"7.7.32","arch":"amd64","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"Dups5WttPtquZZB4"}
+{"version":"7.8.46","arch":"amd64","changelog":"checking and rewriting eggs tools:skel","_id":"ELAsi9b0vuKZmrcc"}
 {"version":"7.8.31","arch":"amd64","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"FDy6Xyyyz2oEiPKI"}
 {"version":"7.7.32","arch":"i386","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"FXY4XyaZJiLpPyUP"}
 {"version":"7.8.31","arch":"armel","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"Ff5vVLtBXxWosRUt"}
@@ -51,6 +53,7 @@
 {"version":"7.8.38","arch":"amd64","changelog":"working in cli installer","_id":"GQkkray7BRCdvhPU"}
 {"version":"7.8.38","arch":"i386","changelog":"working in cli installer","_id":"GizL1ptYLZAAXAYe"}
 {"version":"7.6.88","arch":"armel","changelog":"changing and fixes in devuan beowulf, ubuntu focal, Ubuntu groovy","_id":"GvfsfJDKx7seXWEz"}
+{"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
 {"version":"7.7.17","arch":"i386","changelog":"resolved bug yolk and machine-id","_id":"HoEVxi10neRdELDT"}
 {"version":"7.7.28","arch":"amd64","changelog":"added --prefix in produce, mom get you original manual and translations at your fingertips","_id":"HoxRlECkeNs2xULO"}
@@ -189,6 +192,6 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.46","arch":"amd64","changelog":"checking and rewriting eggs tools:skel","_id":"ELAsi9b0vuKZmrcc"}
-{"version":"7.8.46","arch":"armel","changelog":"checking and rewriting eggs tools:skel","_id":"5FBg786JN1QQwiTd"}
-{"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
+{"version":"7.8.47","arch":"i386","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"u1WzxZbpZzIk7jft"}
+{"version":"7.8.47","arch":"amd64","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"CoDCk6EOCE3c83Ei"}
+{"version":"7.8.47","arch":"armel","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"7JVUujLxwmYq3fJW"}
