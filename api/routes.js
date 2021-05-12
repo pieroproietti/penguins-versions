@@ -25,14 +25,14 @@ module.exports = function (app) {
      * krill
      */
     app.route('/krill/versions/')
-        .get(controller.versions)
+        .get(controller.krillVersion)
 
     app.route('/krill/versions/:version/:arch')
-        .get(controller.versions)
+        .get(controller.krillVersion)
 
     app.route('/krill/versions/:version/')
-        .get(controller.versions)
+        .get(controller.krillVersion)
 
     app.route('/krill/add/:version/:arch/:changelog')
-        .get(controller.add)
+        .get(controller.krillAdd)
 }
