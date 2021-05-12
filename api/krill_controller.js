@@ -1,8 +1,8 @@
 'use strict'
 
-var properties = require('../package.json')
+import properties from '../package.json'
 
-var Datastore = require('nedb')
+import Datastore from 'nedb'
 var krillVersions = new Datastore({ filename: 'krill.db', autoload: true })
 
 var krillControllers = {
@@ -12,7 +12,7 @@ var krillControllers = {
      * @param {*} req 
      * @param {*} res 
      */
-    add: function (req, res) {
+    krillAdd: function (req, res) {
         let version = req.params.version
         let arch = req.params.arch
         let changelog = req.params.changelog
@@ -53,7 +53,7 @@ var krillControllers = {
             criteria = { arch: arch }
         }
 
-        krillVersions.find(criteria, function (err, docs) {
+        versions.find(criteria, function (err, docs) {
             if (err)
                 res.send(err)
             res.json(docs);
@@ -61,4 +61,4 @@ var krillControllers = {
     },
 }
 
-module.exports = krillControllers
+export default krillControllers
