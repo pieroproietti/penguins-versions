@@ -71,7 +71,7 @@ var controllers = {
                 res.send(err)
             res.json(docs);
         })
-    },
+    }
 }
 
 module.exports = controllers
