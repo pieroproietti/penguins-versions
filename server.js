@@ -2,7 +2,7 @@ const express = require('express')
 const app = express();
 const port = process.env.PORT || 3000;
 
-const routes = require('./api/routes');
+const routes = require('./api/routes').default;
 routes(app);
 app.listen(port, function() {
    console.log('Server started on port: ' + port);

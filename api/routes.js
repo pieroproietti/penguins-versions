@@ -1,7 +1,7 @@
 'use strict';
 
 import { about, versions, add } from './controller';
-// import { versions as _versions, add as _add } from './krillController';
+import { versions as _versions, add as _add } from './krill_controller';
 
 export default function (app) {
     app.route('/about')
@@ -24,6 +24,7 @@ export default function (app) {
 
     /**
      * krill
+     */
     app.route('/krill/versions/')
         .get(_versions)
 
@@ -35,5 +36,4 @@ export default function (app) {
 
     app.route('/krill/add/:version/:arch/:changelog')
         .get(_add)
-     */
 }

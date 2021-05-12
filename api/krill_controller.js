@@ -3,7 +3,7 @@
 var properties = require('../package.json')
 
 var Datastore = require('nedb')
-var versions = new Datastore({ filename: 'krill.db', autoload: true })
+var krillVersions = new Datastore({ filename: 'krill.db', autoload: true })
 
 var krillControllers = {
 
@@ -18,7 +18,7 @@ var krillControllers = {
         let changelog = req.params.changelog
         const record = { version, arch, changelog }
 
-        versions.insert(record, function (err, doc) {
+        krillVersions.insert(record, function (err, doc) {
             if (err)
                 res.send(err)
             res.json(record)
@@ -30,7 +30,7 @@ var krillControllers = {
      * @param {*} req 
      * @param {*} res 
      */
-    versions: function (req, res) {
+    krillVersions: function (req, res) {
         let version = req.params.version
         let arch = req.params.arch
 
@@ -53,7 +53,7 @@ var krillControllers = {
             criteria = { arch: arch }
         }
 
-        versions.find(criteria, function (err, docs) {
+        krillVersions.find(criteria, function (err, docs) {
             if (err)
                 res.send(err)
             res.json(docs);
