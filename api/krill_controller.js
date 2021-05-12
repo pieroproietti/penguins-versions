@@ -12,19 +12,6 @@ var krillControllers = {
      * @param {*} req 
      * @param {*} res 
      */
-    about: function (req, res) {
-        var aboutInfo = {
-            name: properties.name,
-            version: properties.version
-        }
-        res.json(aboutInfo)
-    },
-
-    /**
-     * 
-     * @param {*} req 
-     * @param {*} res 
-     */
     add: function (req, res) {
         let version = req.params.version
         let arch = req.params.arch
@@ -74,4 +61,4 @@ var krillControllers = {
     },
 }
 
-module.exports = controllers
+module.exports = krillControllers

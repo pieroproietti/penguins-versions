@@ -6,6 +6,9 @@ module.exports = function (app) {
     app.route('/about')
         .get(controller.about)
 
+    /**
+     * eggs
+     */
     app.route('/versions/')
         .get(controller.versions)
 
@@ -18,6 +21,9 @@ module.exports = function (app) {
     app.route('/add/:version/:arch/:changelog')
         .get(controller.add)
 
+    /**
+     * krill
+     */
     app.route('/krill/versions/')
         .get(krillController.versions)
 
