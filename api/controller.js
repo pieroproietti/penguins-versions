@@ -102,7 +102,7 @@ var controllers = {
      * @param {*} req 
      * @param {*} res 
      */
-    versions: function (req, res) {
+    krillVersions: function (req, res) {
         let version = req.params.version
         let arch = req.params.arch
 
