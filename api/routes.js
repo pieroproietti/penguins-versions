@@ -1,40 +1,39 @@
 'use strict';
 
-const controller = require('./controller')
-const krillController = require('./krillController')
+import { about, versions, add } from './controller';
+// import { versions as _versions, add as _add } from './krillController';
 
-module.exports = function (app) {
+export default function (app) {
     app.route('/about')
-        .get(controller.about)
+        .get(about)
 
     /**
      * eggs
      */
     app.route('/versions/')
-        .get(controller.versions)
+        .get(versions)
 
     app.route('/versions/:version/:arch')
-        .get(controller.versions)
+        .get(versions)
 
     app.route('/versions/:version/')
-        .get(controller.versions)
+        .get(versions)
 
     app.route('/add/:version/:arch/:changelog')
-        .get(controller.add)
+        .get(add)
 
     /**
      * krill
-     */
     app.route('/krill/versions/')
-        .get(krillController.versions)
+        .get(_versions)
 
     app.route('/krill/versions/:version/:arch')
-        .get(krillController.versions)
+        .get(_versions)
 
     app.route('/krill/versions/:version/')
-        .get(krillController.versions)
+        .get(_versions)
 
     app.route('/krill/add/:version/:arch/:changelog')
-        .get(krillController.add)
-
+        .get(_add)
+     */
 }
