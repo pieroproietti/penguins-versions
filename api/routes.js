@@ -1,6 +1,7 @@
 'use strict';
 
 const controller = require('./controller')
+const krillController = require('./krillController')
 
 module.exports = function (app) {
     app.route('/about')
