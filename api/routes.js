@@ -1,24 +1,20 @@
 'use strict';
 
-import { about, versions, add } from './controller';
+const controller = require('./controller')
 
-export default function (app) {
+module.exports = function (app) {
     app.route('/about')
-        .get(about)
+        .get(controller.about)
 
-    /**
-     * eggs
-     */
-    app.route('/versions/')
-        .get(versions)
+        app.route('/versions/')
+        .get(controller.versions)
 
-    app.route('/versions/:version/:arch')
-        .get(versions)
+        app.route('/versions/:version/:arch')
+        .get(controller.versions)
 
-    app.route('/versions/:version/')
-        .get(versions)
+        app.route('/versions/:version/')
+       .get(controller.versions)
 
     app.route('/add/:version/:arch/:changelog')
-        .get(add)
-
+        .get(controller.add)
 }
