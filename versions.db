@@ -25,6 +25,7 @@
 {"version":"7.7.30","arch":"i386","changelog":"bugfix export:iso, changed locales array to user configuration plus en_US.UTF8.","_id":"5eHmKFFK4aHgU8T5"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
+{"version":"7.8.47","arch":"armel","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"7JVUujLxwmYq3fJW"}
 {"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
 {"version":"7.6.77","arch":"i386","changelog":"select vmlinuz and initrd.img version from cmdline del kernel","_id":"7vshOuymUPnN9Lev"}
@@ -39,6 +40,7 @@
 {"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
 {"version":"7.7.04","arch":"armel","changelog":"added guadalinex theme","_id":"CDXTa9KsosQVN8En"}
 {"version":"7.7.18","arch":"i386","changelog":"added Linux Mint 20.1 ulyssa","_id":"CJPCzwFtfJ2lM6Xu"}
+{"version":"7.8.47","arch":"amd64","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"CoDCk6EOCE3c83Ei"}
 {"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
 {"version":"7.8.30","arch":"armel","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"DXgEjXwrCP7jBFKA"}
 {"version":"7.7.32","arch":"amd64","changelog":"bugfix add autocomplete in i386. Added control, preinst, postinst, prerm, postrm in deb packages","_id":"Dups5WttPtquZZB4"}
@@ -166,6 +168,7 @@
 {"version":"7.7.04","arch":"amd64","changelog":"added guadalinex theme","_id":"tap8izO5yyEfGUVX"}
 {"version":"7.8.39","arch":"i386","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"tihBUdsCw4LVqGgB"}
 {"version":"7.8.24","arch":"armel","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"tmX9z9YGLBQRzVCR"}
+{"version":"7.8.47","arch":"i386","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"u1WzxZbpZzIk7jft"}
 {"version":"7.7.03","arch":"i386","changelog":"fixed annoying bug in option safe booting from livecd","_id":"uKdRgvw4KpLvEkjQ"}
 {"version":"7.8.44","arch":"armel","changelog":"added theme neon, revisited theme eggs","_id":"uSMTtCRemBjPxu4u"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
@@ -192,6 +195,3 @@
 {"version":"7.6.80","arch":"amd64","changelog":"displays the command flags","_id":"zUI7m7Ij9bDqZ26H"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"7.8.47","arch":"i386","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"u1WzxZbpZzIk7jft"}
-{"version":"7.8.47","arch":"amd64","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"CoDCk6EOCE3c83Ei"}
-{"version":"7.8.47","arch":"armel","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"7JVUujLxwmYq3fJW"}
