@@ -1,6 +1,6 @@
 'use strict';
 
-import { about, versions, add} from './controller';
+import { about, versions, add } from './controller';
 
 export default function (app) {
     app.route('/about')
