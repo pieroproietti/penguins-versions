@@ -1,3 +1,6 @@
+{"version":"7.8.49","arch":"amd64","changelog":"a step more to krill: configuration for jessie and stretch. More modern versions use same configuration of calamares.","_id":"08npMR5l79Fj0Eia"}
+{"version":"7.8.49","arch":"i386","changelog":"a step more to krill: configuration for jessie and stretch. More modern versions use same configuration of calamares.","_id":"08npMR5l79Fj0Eib"}
+{"version":"7.8.49","arch":"armel","changelog":"a step more to krill: configuration for jessie and stretch. More modern versions use same configuration of calamares.","_id":"08npMR5l79Fj0Eic"}
 {"version":"7.8.26","arch":"amd64","changelog":"bufixes and compression filter by processor","_id":"08npMR5l79Fj0Eii"}
 {"version":"7.7.23","arch":"i386","changelog":"mom execute mom-cli if zenity is not present. hostname fixed in hatching","_id":"0I8aPVgZqmw41H7b"}
 {"version":"7.6.61","arch":"amd64","changelog":"exclude yolk from copy, cleaning tools.conf using settings from eggs","_id":"0THpUbcArNzyJU01"}
