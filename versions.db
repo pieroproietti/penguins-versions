@@ -6,6 +6,7 @@
 {"version":"7.8.39","arch":"armel","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"2voDFhTVVyYApGnL"}
 {"version":"7.8.31","arch":"i386","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"498HrrzaMusfkuDk"}
 {"version":"7.8.13","arch":"amd64","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"4SwG3l6xuXVeriNx"}
+{"version":"8.0.1","arch":"armel","changelog":"tested on bullseye with and without calamares","_id":"4q5XXVEnQfdArCNM"}
 {"version":"7.8.44","arch":"i386","changelog":"added theme neon, revisited theme eggs","_id":"4y9A4xMtCgL7NXVD"}
 {"version":"7.8.46","arch":"armel","changelog":"checking and rewriting eggs tools:skel","_id":"5FBg786JN1QQwiTd"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
@@ -52,6 +53,7 @@
 {"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
 {"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
 {"version":"7.8.27","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"eN1fkEk6WrhnIBZV"}
+{"version":"8.0.1","arch":"amd64","changelog":"tested on bullseye with and without calamares","_id":"ebAsEuDnElrpSMQt"}
 {"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
 {"version":"7.8.10","arch":"i386","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"fJjfhlCOsAD7hbox"}
 {"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
@@ -68,6 +70,7 @@
 {"version":"7.8.23","arch":"i386","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"oG5qx6dCiZbvZIrD"}
 {"version":"7.8.27","arch":"armel","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"ogOZjFN8BQYCWz3k"}
 {"version":"7.8.45","arch":"i386","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"pgWdZcR21EAyJCnx"}
+{"version":"8.0.1","arch":"i386","changelog":"tested on bullseye with and without calamares","_id":"ppvGfoiChzWA2IoA"}
 {"version":"7.8.41","arch":"i386","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"rPkeoDGL8y0SbKGF"}
 {"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
 {"version":"7.8.22","arch":"armel","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"s1kyGoQnqyetJ8Ut"}
@@ -92,6 +95,6 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.1","arch":"amd64","changelog":"tested on bullseye with and without calamares","_id":"ebAsEuDnElrpSMQt"}
-{"version":"8.0.1","arch":"i386","changelog":"tested on bullseye with and without calamares","_id":"ppvGfoiChzWA2IoA"}
-{"version":"8.0.1","arch":"armel","changelog":"tested on bullseye with and without calamares","_id":"4q5XXVEnQfdArCNM"}
+{"version":"8.0.2","arch":"armel","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"vmig8Nc1DxRbJ6aU"}
+{"version":"8.0.2","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
+{"version":"8.0.2","arch":"i386","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"OH57UdRoBtpNz9ut"}
