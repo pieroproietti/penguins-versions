@@ -16,6 +16,7 @@
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
 {"version":"7.8.45","arch":"armel","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"9sPba4Wz8bdMEWnB"}
 {"version":"7.8.43","arch":"i386","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"AaeiJbbGhZnLxY8T"}
+{"version":"8.0.2","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
 {"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
 {"version":"7.8.47","arch":"amd64","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"CoDCk6EOCE3c83Ei"}
 {"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
@@ -34,6 +35,7 @@
 {"version":"7.8.29","arch":"i386","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"MdlyxeJP8XmG6lPR"}
 {"version":"7.8.42","arch":"amd64","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"NAQ2AEC5qEPDX2rp"}
 {"version":"7.8.14","arch":"amd64","changelog":"added siduction to supported distros, aka: seduct from siduction!","_id":"ODYXD87bYFDuSjNt"}
+{"version":"8.0.2","arch":"i386","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"OH57UdRoBtpNz9ut"}
 {"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
 {"version":"7.8.29","arch":"armel","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"Rhkzy5vEhjn3NOQh"}
 {"version":"7.8.40","arch":"amd64","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"SAqUzGTaDhXdOuB2"}
@@ -84,6 +86,7 @@
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
 {"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
+{"version":"8.0.2","arch":"armel","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"vmig8Nc1DxRbJ6aU"}
 {"version":"7.8.23","arch":"amd64","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"w8vN7fulTZhnFSrC"}
 {"version":"7.8.45","arch":"amd64","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"whdxl0L4PGDTcG5T"}
 {"version":"7.8.34","arch":"i386","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"wl7LeZJyJgfHECoW"}
@@ -95,6 +98,6 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.2","arch":"armel","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"vmig8Nc1DxRbJ6aU"}
-{"version":"8.0.2","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
-{"version":"8.0.2","arch":"i386","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"OH57UdRoBtpNz9ut"}
+{"version":"8.0.3","arch":"i386","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"XOWR4isGJVnGTBja"}
+{"version":"8.0.3","arch":"amd64","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"4tMBfNRFivqHsKNc"}
+{"version":"8.0.3","arch":"armel","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"aQQmFSncZ58cTnmx"}
