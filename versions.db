@@ -101,7 +101,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.4","arch":"arm64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"CgqYWe4N19b5oH9f"}
+{"version":"8.0.4","arch":"amd64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"CgqYWe4N19b5oH9f"}
 {"version":"8.0.4","arch":"i386","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"R3wO3TLGOFI8Fzyl"}
 {"version":"8.0.4","arch":"armel","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"OjEbrFBbcyLF0Umk"}
 {"version":"8.0.4","arch":"arm64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"TorejJp0Au7CN0He"}
