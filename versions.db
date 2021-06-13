@@ -17,9 +17,11 @@
 {"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
 {"version":"7.8.45","arch":"armel","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"9sPba4Wz8bdMEWnB"}
+{"version":"8.0.6","arch":"arm64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"9wTLKqbNPeClP9uW"}
 {"version":"7.8.43","arch":"i386","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"AaeiJbbGhZnLxY8T"}
 {"version":"8.0.2","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
 {"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
+{"version":"8.0.6","arch":"i386","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"C9VMY6tIiQuCRBlF"}
 {"version":"8.0.4","arch":"amd64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"CgqYWe4N19b5oH9f"}
 {"version":"7.8.47","arch":"amd64","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"CoDCk6EOCE3c83Ei"}
 {"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
@@ -29,6 +31,7 @@
 {"version":"7.8.31","arch":"armel","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"Ff5vVLtBXxWosRUt"}
 {"version":"7.8.38","arch":"amd64","changelog":"working in cli installer","_id":"GQkkray7BRCdvhPU"}
 {"version":"7.8.38","arch":"i386","changelog":"working in cli installer","_id":"GizL1ptYLZAAXAYe"}
+{"version":"8.0.6","arch":"amd64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"H51rmj0ueJSZDMFD"}
 {"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
 {"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
@@ -41,6 +44,7 @@
 {"version":"7.8.14","arch":"amd64","changelog":"added siduction to supported distros, aka: seduct from siduction!","_id":"ODYXD87bYFDuSjNt"}
 {"version":"8.0.2","arch":"i386","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"OH57UdRoBtpNz9ut"}
 {"version":"8.0.4","arch":"armel","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"OjEbrFBbcyLF0Umk"}
+{"version":"8.0.6","arch":"armel","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"P8nf4oghXwtvoJYI"}
 {"version":"8.0.4","arch":"i386","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"R3wO3TLGOFI8Fzyl"}
 {"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
 {"version":"7.8.29","arch":"armel","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"Rhkzy5vEhjn3NOQh"}
@@ -109,7 +113,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.6","arch":"amd64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"H51rmj0ueJSZDMFD"}
-{"version":"8.0.6","arch":"i386","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"C9VMY6tIiQuCRBlF"}
-{"version":"8.0.6","arch":"armel","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"P8nf4oghXwtvoJYI"}
-{"version":"8.0.6","arch":"arm64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"9wTLKqbNPeClP9uW"}
+{"version":"8.0.4","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
+{"version":"8.0.4","arch":"i386","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"qEcXDs9MYuBL0qLb"}
+{"version":"8.0.4","arch":"armel","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"NFvYaHIKB7syK7R8"}
+{"version":"8.0.4","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
