@@ -13,6 +13,7 @@
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
 {"version":"8.0.4","arch":"amd64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"71q9oNoiuIPesF7d"}
+{"version":"8.0.7","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
 {"version":"7.8.47","arch":"armel","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"7JVUujLxwmYq3fJW"}
 {"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
@@ -41,6 +42,7 @@
 {"version":"7.8.29","arch":"i386","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"MdlyxeJP8XmG6lPR"}
 {"version":"7.8.42","arch":"amd64","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"NAQ2AEC5qEPDX2rp"}
 {"version":"8.0.4","arch":"arm64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"NDh5DrEKLQFO61CE"}
+{"version":"8.0.7","arch":"armel","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"NFvYaHIKB7syK7R8"}
 {"version":"7.8.14","arch":"amd64","changelog":"added siduction to supported distros, aka: seduct from siduction!","_id":"ODYXD87bYFDuSjNt"}
 {"version":"8.0.2","arch":"i386","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"OH57UdRoBtpNz9ut"}
 {"version":"8.0.4","arch":"armel","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"OjEbrFBbcyLF0Umk"}
@@ -57,6 +59,7 @@
 {"version":"8.0.4","arch":"arm64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"TorejJp0Au7CN0He"}
 {"version":"7.8.42","arch":"armel","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"UjxnqNW98glvz0JA"}
 {"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
+{"version":"8.0.7","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
 {"version":"8.0.3","arch":"i386","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"XOWR4isGJVnGTBja"}
 {"version":"7.8.34","arch":"armel","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"XueQXyEYz29FtZCq"}
 {"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
@@ -88,6 +91,7 @@
 {"version":"7.8.27","arch":"armel","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"ogOZjFN8BQYCWz3k"}
 {"version":"7.8.45","arch":"i386","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"pgWdZcR21EAyJCnx"}
 {"version":"8.0.1","arch":"i386","changelog":"tested on bullseye with and without calamares","_id":"ppvGfoiChzWA2IoA"}
+{"version":"8.0.7","arch":"i386","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"qEcXDs9MYuBL0qLb"}
 {"version":"7.8.41","arch":"i386","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"rPkeoDGL8y0SbKGF"}
 {"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
 {"version":"7.8.22","arch":"armel","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"s1kyGoQnqyetJ8Ut"}
@@ -113,7 +117,3 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.4","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
-{"version":"8.0.4","arch":"i386","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"qEcXDs9MYuBL0qLb"}
-{"version":"8.0.4","arch":"armel","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"NFvYaHIKB7syK7R8"}
-{"version":"8.0.4","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
