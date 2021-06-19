@@ -12,11 +12,13 @@
 {"version":"7.8.46","arch":"armel","changelog":"checking and rewriting eggs tools:skel","_id":"5FBg786JN1QQwiTd"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
+{"version":"8.0.8","arch":"armel","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"70OYaSD5JqPFuY7Q"}
 {"version":"8.0.4","arch":"amd64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"71q9oNoiuIPesF7d"}
 {"version":"8.0.7","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
 {"version":"7.8.47","arch":"armel","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"7JVUujLxwmYq3fJW"}
 {"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
+{"version":"8.0.8","arch":"amd64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"8CfVoUxZWLlBxF5d"}
 {"version":"7.8.45","arch":"armel","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"9sPba4Wz8bdMEWnB"}
 {"version":"8.0.6","arch":"arm64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"9wTLKqbNPeClP9uW"}
 {"version":"7.8.43","arch":"i386","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"AaeiJbbGhZnLxY8T"}
@@ -62,7 +64,9 @@
 {"version":"8.0.7","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
 {"version":"8.0.3","arch":"i386","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"XOWR4isGJVnGTBja"}
 {"version":"7.8.34","arch":"armel","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"XueQXyEYz29FtZCq"}
+{"version":"8.0.8","arch":"i386","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"Y3xBLPweJZlqeE7H"}
 {"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
+{"version":"8.0.8","arch":"arm64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"YmPEMyfjuRmvkihv"}
 {"version":"7.8.43","arch":"armel","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"Z3ADGIDiLrmPcgkT"}
 {"version":"7.8.13","arch":"armel","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"a4libsU0Z1D5nylx"}
 {"version":"8.0.3","arch":"armel","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"aQQmFSncZ58cTnmx"}
@@ -117,7 +121,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.8","arch":"amd64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"8CfVoUxZWLlBxF5d"}
-{"version":"8.0.8","arch":"i386","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"Y3xBLPweJZlqeE7H"}
-{"version":"8.0.8","arch":"armel","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"70OYaSD5JqPFuY7Q"}
-{"version":"8.0.8","arch":"arm64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"YmPEMyfjuRmvkihv"}
+{"version":"8.0.9","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
+{"version":"8.0.9","arch":"i386","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"BZ727W8R8cCrITHo"}
+{"version":"8.0.9","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
+{"version":"8.0.9","arch":"arm64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"eG6m5olem0C3lOX8"}
