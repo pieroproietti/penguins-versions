@@ -22,6 +22,7 @@
 {"version":"7.8.45","arch":"armel","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"9sPba4Wz8bdMEWnB"}
 {"version":"8.0.6","arch":"arm64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"9wTLKqbNPeClP9uW"}
 {"version":"7.8.43","arch":"i386","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"AaeiJbbGhZnLxY8T"}
+{"version":"8.0.9","arch":"i386","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"BZ727W8R8cCrITHo"}
 {"version":"8.0.2","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
 {"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
 {"version":"8.0.6","arch":"i386","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"C9VMY6tIiQuCRBlF"}
@@ -72,14 +73,17 @@
 {"version":"8.0.3","arch":"armel","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"aQQmFSncZ58cTnmx"}
 {"version":"7.8.36","arch":"i386","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"aYVqEfAgM6grWCXl"}
 {"version":"7.8.10","arch":"amd64","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"aYxxrssKtlKiIVn9"}
+{"version":"8.0.9","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
 {"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
 {"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
 {"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
 {"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
+{"version":"8.0.9","arch":"arm64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"eG6m5olem0C3lOX8"}
 {"version":"7.8.27","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"eN1fkEk6WrhnIBZV"}
 {"version":"8.0.1","arch":"amd64","changelog":"tested on bullseye with and without calamares","_id":"ebAsEuDnElrpSMQt"}
 {"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
 {"version":"7.8.10","arch":"i386","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"fJjfhlCOsAD7hbox"}
+{"version":"8.0.9","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
 {"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
 {"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
 {"version":"7.8.10","arch":"armel","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"hjBHT0AwKLKS3hnn"}
@@ -121,7 +125,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.9","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
-{"version":"8.0.9","arch":"i386","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"BZ727W8R8cCrITHo"}
-{"version":"8.0.9","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
-{"version":"8.0.9","arch":"arm64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"eG6m5olem0C3lOX8"}
+{"version":"8.0.10","arch":"amd64","changelog":"added distro linuxmint 20.3 uma","_id":"d963RLhtXsXU1HoP"}
+{"version":"8.0.10","arch":"i386","changelog":"added distro linuxmint 20.3 uma","_id":"RMoIVQTyxVw0x4jh"}
+{"version":"8.0.10","arch":"armel","changelog":"added distro linuxmint 20.3 uma","_id":"bjME5VH6ZYrVdA64"}
+{"version":"8.0.10","arch":"arm64","changelog":"added distro linuxmint 20.3 uma","_id":"IT6WY5KkaPoRVPOu"}
