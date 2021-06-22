@@ -6,27 +6,27 @@
 {"version":"7.8.39","arch":"armel","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"2voDFhTVVyYApGnL"}
 {"version":"7.8.31","arch":"i386","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"498HrrzaMusfkuDk"}
 {"version":"7.8.13","arch":"amd64","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"4SwG3l6xuXVeriNx"}
-{"version":"8.0.1","arch":"armel","changelog":"tested on bullseye with and without calamares","_id":"4q5XXVEnQfdArCNM"}
-{"version":"8.0.3","arch":"amd64","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"4tMBfNRFivqHsKNc"}
+{"version":"8.0.01","arch":"armel","changelog":"tested on bullseye with and without calamares","_id":"4q5XXVEnQfdArCNM"}
+{"version":"8.0.03","arch":"amd64","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"4tMBfNRFivqHsKNc"}
 {"version":"7.8.44","arch":"i386","changelog":"added theme neon, revisited theme eggs","_id":"4y9A4xMtCgL7NXVD"}
 {"version":"7.8.46","arch":"armel","changelog":"checking and rewriting eggs tools:skel","_id":"5FBg786JN1QQwiTd"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
-{"version":"8.0.8","arch":"armel","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"70OYaSD5JqPFuY7Q"}
-{"version":"8.0.4","arch":"amd64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"71q9oNoiuIPesF7d"}
-{"version":"8.0.7","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
+{"version":"8.0.08","arch":"armel","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"70OYaSD5JqPFuY7Q"}
+{"version":"8.0.04","arch":"amd64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"71q9oNoiuIPesF7d"}
+{"version":"8.0.07","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
 {"version":"7.8.47","arch":"armel","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"7JVUujLxwmYq3fJW"}
 {"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
-{"version":"8.0.8","arch":"amd64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"8CfVoUxZWLlBxF5d"}
+{"version":"8.0.08","arch":"amd64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"8CfVoUxZWLlBxF5d"}
 {"version":"7.8.45","arch":"armel","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"9sPba4Wz8bdMEWnB"}
-{"version":"8.0.6","arch":"arm64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"9wTLKqbNPeClP9uW"}
+{"version":"8.0.06","arch":"arm64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"9wTLKqbNPeClP9uW"}
 {"version":"7.8.43","arch":"i386","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"AaeiJbbGhZnLxY8T"}
-{"version":"8.0.9","arch":"i386","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"BZ727W8R8cCrITHo"}
-{"version":"8.0.2","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
+{"version":"8.0.09","arch":"i386","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"BZ727W8R8cCrITHo"}
+{"version":"8.0.02","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
 {"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
-{"version":"8.0.6","arch":"i386","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"C9VMY6tIiQuCRBlF"}
-{"version":"8.0.4","arch":"amd64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"CgqYWe4N19b5oH9f"}
+{"version":"8.0.06","arch":"i386","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"C9VMY6tIiQuCRBlF"}
+{"version":"8.0.04","arch":"amd64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"CgqYWe4N19b5oH9f"}
 {"version":"7.8.47","arch":"amd64","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"CoDCk6EOCE3c83Ei"}
 {"version":"7.8.12","arch":"amd64","changelog":"added cli-autologin in naked live versions","_id":"DC6ipoYxm8nb9MQr"}
 {"version":"7.8.30","arch":"armel","changelog":"rewrite of distros.ts class: cleanup and reorganization","_id":"DXgEjXwrCP7jBFKA"}
@@ -35,7 +35,7 @@
 {"version":"7.8.31","arch":"armel","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"Ff5vVLtBXxWosRUt"}
 {"version":"7.8.38","arch":"amd64","changelog":"working in cli installer","_id":"GQkkray7BRCdvhPU"}
 {"version":"7.8.38","arch":"i386","changelog":"working in cli installer","_id":"GizL1ptYLZAAXAYe"}
-{"version":"8.0.6","arch":"amd64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"H51rmj0ueJSZDMFD"}
+{"version":"8.0.06","arch":"amd64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"H51rmj0ueJSZDMFD"}
 {"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
 {"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
@@ -44,46 +44,46 @@
 {"version":"7.8.36","arch":"armel","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"L2C0wi0cswo8EE7u"}
 {"version":"7.8.29","arch":"i386","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"MdlyxeJP8XmG6lPR"}
 {"version":"7.8.42","arch":"amd64","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"NAQ2AEC5qEPDX2rp"}
-{"version":"8.0.4","arch":"arm64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"NDh5DrEKLQFO61CE"}
-{"version":"8.0.7","arch":"armel","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"NFvYaHIKB7syK7R8"}
+{"version":"8.0.04","arch":"arm64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"NDh5DrEKLQFO61CE"}
+{"version":"8.0.07","arch":"armel","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"NFvYaHIKB7syK7R8"}
 {"version":"7.8.14","arch":"amd64","changelog":"added siduction to supported distros, aka: seduct from siduction!","_id":"ODYXD87bYFDuSjNt"}
-{"version":"8.0.2","arch":"i386","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"OH57UdRoBtpNz9ut"}
-{"version":"8.0.4","arch":"armel","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"OjEbrFBbcyLF0Umk"}
-{"version":"8.0.6","arch":"armel","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"P8nf4oghXwtvoJYI"}
-{"version":"8.0.4","arch":"i386","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"R3wO3TLGOFI8Fzyl"}
+{"version":"8.0.02","arch":"i386","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"OH57UdRoBtpNz9ut"}
+{"version":"8.0.04","arch":"armel","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"OjEbrFBbcyLF0Umk"}
+{"version":"8.0.06","arch":"armel","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"P8nf4oghXwtvoJYI"}
+{"version":"8.0.04","arch":"i386","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"R3wO3TLGOFI8Fzyl"}
 {"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
 {"version":"7.8.29","arch":"armel","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"Rhkzy5vEhjn3NOQh"}
 {"version":"7.8.40","arch":"amd64","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"SAqUzGTaDhXdOuB2"}
-{"version":"8.0.4","arch":"i386","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"SfLGPsNISBUMzJgd"}
+{"version":"8.0.04","arch":"i386","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"SfLGPsNISBUMzJgd"}
 {"version":"7.8.11","arch":"amd64","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"T01hVGnNFFIYZWzf"}
 {"version":"7.8.25","arch":"amd64","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"TF28cPJ2AGaYEVrJ"}
 {"version":"7.8.24","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"TKYJo2sPNYGHOyQ0"}
-{"version":"8.0.4","arch":"armel","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"TVUvJlYu27faAdrd"}
-{"version":"8.0.4","arch":"arm64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"TorejJp0Au7CN0He"}
+{"version":"8.0.04","arch":"armel","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"TVUvJlYu27faAdrd"}
+{"version":"8.0.04","arch":"arm64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"TorejJp0Au7CN0He"}
 {"version":"7.8.42","arch":"armel","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"UjxnqNW98glvz0JA"}
 {"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
-{"version":"8.0.7","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
-{"version":"8.0.3","arch":"i386","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"XOWR4isGJVnGTBja"}
+{"version":"8.0.07","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
+{"version":"8.0.03","arch":"i386","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"XOWR4isGJVnGTBja"}
 {"version":"7.8.34","arch":"armel","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"XueQXyEYz29FtZCq"}
-{"version":"8.0.8","arch":"i386","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"Y3xBLPweJZlqeE7H"}
+{"version":"8.0.08","arch":"i386","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"Y3xBLPweJZlqeE7H"}
 {"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
-{"version":"8.0.8","arch":"arm64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"YmPEMyfjuRmvkihv"}
+{"version":"8.0.08","arch":"arm64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"YmPEMyfjuRmvkihv"}
 {"version":"7.8.43","arch":"armel","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"Z3ADGIDiLrmPcgkT"}
 {"version":"7.8.13","arch":"armel","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"a4libsU0Z1D5nylx"}
-{"version":"8.0.3","arch":"armel","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"aQQmFSncZ58cTnmx"}
+{"version":"8.0.03","arch":"armel","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"aQQmFSncZ58cTnmx"}
 {"version":"7.8.36","arch":"i386","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"aYVqEfAgM6grWCXl"}
 {"version":"7.8.10","arch":"amd64","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"aYxxrssKtlKiIVn9"}
-{"version":"8.0.9","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
+{"version":"8.0.09","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
 {"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
 {"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
 {"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
 {"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
-{"version":"8.0.9","arch":"arm64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"eG6m5olem0C3lOX8"}
+{"version":"8.0.09","arch":"arm64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"eG6m5olem0C3lOX8"}
 {"version":"7.8.27","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"eN1fkEk6WrhnIBZV"}
-{"version":"8.0.1","arch":"amd64","changelog":"tested on bullseye with and without calamares","_id":"ebAsEuDnElrpSMQt"}
+{"version":"8.0.01","arch":"amd64","changelog":"tested on bullseye with and without calamares","_id":"ebAsEuDnElrpSMQt"}
 {"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
 {"version":"7.8.10","arch":"i386","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"fJjfhlCOsAD7hbox"}
-{"version":"8.0.9","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
+{"version":"8.0.09","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
 {"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
 {"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
 {"version":"7.8.10","arch":"armel","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"hjBHT0AwKLKS3hnn"}
@@ -98,8 +98,8 @@
 {"version":"7.8.23","arch":"i386","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"oG5qx6dCiZbvZIrD"}
 {"version":"7.8.27","arch":"armel","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"ogOZjFN8BQYCWz3k"}
 {"version":"7.8.45","arch":"i386","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"pgWdZcR21EAyJCnx"}
-{"version":"8.0.1","arch":"i386","changelog":"tested on bullseye with and without calamares","_id":"ppvGfoiChzWA2IoA"}
-{"version":"8.0.7","arch":"i386","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"qEcXDs9MYuBL0qLb"}
+{"version":"8.0.01","arch":"i386","changelog":"tested on bullseye with and without calamares","_id":"ppvGfoiChzWA2IoA"}
+{"version":"8.0.07","arch":"i386","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"qEcXDs9MYuBL0qLb"}
 {"version":"7.8.41","arch":"i386","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"rPkeoDGL8y0SbKGF"}
 {"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
 {"version":"7.8.22","arch":"armel","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"s1kyGoQnqyetJ8Ut"}
@@ -113,7 +113,7 @@
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
 {"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
-{"version":"8.0.2","arch":"armel","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"vmig8Nc1DxRbJ6aU"}
+{"version":"8.0.02","arch":"armel","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"vmig8Nc1DxRbJ6aU"}
 {"version":"7.8.23","arch":"amd64","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"w8vN7fulTZhnFSrC"}
 {"version":"7.8.45","arch":"amd64","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"whdxl0L4PGDTcG5T"}
 {"version":"7.8.34","arch":"i386","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"wl7LeZJyJgfHECoW"}
