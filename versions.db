@@ -38,6 +38,7 @@
 {"version":"8.0.06","arch":"amd64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"H51rmj0ueJSZDMFD"}
 {"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
+{"version":"8.0.10","arch":"arm64","changelog":"added distro linuxmint 20.3 uma","_id":"IT6WY5KkaPoRVPOu"}
 {"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
 {"version":"7.8.35","arch":"armel","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"JaePV8WFE8tpVlBy"}
 {"version":"7.8.11","arch":"armel","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"KMlMLAESozMGRhfK"}
@@ -51,6 +52,7 @@
 {"version":"8.0.04","arch":"armel","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"OjEbrFBbcyLF0Umk"}
 {"version":"8.0.06","arch":"armel","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"P8nf4oghXwtvoJYI"}
 {"version":"8.0.04","arch":"i386","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"R3wO3TLGOFI8Fzyl"}
+{"version":"8.0.10","arch":"i386","changelog":"added distro linuxmint 20.3 uma","_id":"RMoIVQTyxVw0x4jh"}
 {"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
 {"version":"7.8.29","arch":"armel","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"Rhkzy5vEhjn3NOQh"}
 {"version":"7.8.40","arch":"amd64","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"SAqUzGTaDhXdOuB2"}
@@ -74,7 +76,9 @@
 {"version":"7.8.36","arch":"i386","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"aYVqEfAgM6grWCXl"}
 {"version":"7.8.10","arch":"amd64","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"aYxxrssKtlKiIVn9"}
 {"version":"8.0.09","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
+{"version":"8.0.10","arch":"armel","changelog":"added distro linuxmint 20.3 uma","_id":"bjME5VH6ZYrVdA64"}
 {"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
+{"version":"8.0.10","arch":"amd64","changelog":"added distro linuxmint 20.3 uma","_id":"d963RLhtXsXU1HoP"}
 {"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
 {"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
 {"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
@@ -125,7 +129,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.10","arch":"amd64","changelog":"added distro linuxmint 20.3 uma","_id":"d963RLhtXsXU1HoP"}
-{"version":"8.0.10","arch":"i386","changelog":"added distro linuxmint 20.3 uma","_id":"RMoIVQTyxVw0x4jh"}
-{"version":"8.0.10","arch":"armel","changelog":"added distro linuxmint 20.3 uma","_id":"bjME5VH6ZYrVdA64"}
-{"version":"8.0.10","arch":"arm64","changelog":"added distro linuxmint 20.3 uma","_id":"IT6WY5KkaPoRVPOu"}
+{"version":"8.0.11","arch":"amd64","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"f1aHoGvIBdvNMZWe"}
+{"version":"8.0.11","arch":"i386","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"b6c48kWIh9ZbfSzA"}
+{"version":"8.0.11","arch":"arm64","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"4Aa8r3KNcSoPKHaC"}
+{"version":"8.0.11","arch":"armel","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"qizRrx5WmcBKaQK7"}
