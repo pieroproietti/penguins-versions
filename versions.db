@@ -36,12 +36,14 @@
 {"version":"7.8.31","arch":"armel","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"Ff5vVLtBXxWosRUt"}
 {"version":"7.8.38","arch":"amd64","changelog":"working in cli installer","_id":"GQkkray7BRCdvhPU"}
 {"version":"7.8.38","arch":"i386","changelog":"working in cli installer","_id":"GizL1ptYLZAAXAYe"}
+{"version":"8.0.12","arch":"arm64","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Gon083KEjhX6mi0D"}
 {"version":"8.0.06","arch":"amd64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"H51rmj0ueJSZDMFD"}
 {"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
 {"version":"8.0.10","arch":"arm64","changelog":"added distro linuxmint 20.3 uma","_id":"IT6WY5KkaPoRVPOu"}
 {"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
 {"version":"7.8.35","arch":"armel","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"JaePV8WFE8tpVlBy"}
+{"version":"8.0.12","arch":"i386","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"JfP20b5Na4HhHClL"}
 {"version":"7.8.11","arch":"armel","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"KMlMLAESozMGRhfK"}
 {"version":"7.8.36","arch":"armel","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"L2C0wi0cswo8EE7u"}
 {"version":"7.8.29","arch":"i386","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"MdlyxeJP8XmG6lPR"}
@@ -71,6 +73,7 @@
 {"version":"8.0.08","arch":"i386","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"Y3xBLPweJZlqeE7H"}
 {"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
 {"version":"8.0.08","arch":"arm64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"YmPEMyfjuRmvkihv"}
+{"version":"8.0.12","arch":"armel","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Z0MnJt0u1gyutI9E"}
 {"version":"7.8.43","arch":"armel","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"Z3ADGIDiLrmPcgkT"}
 {"version":"7.8.13","arch":"armel","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"a4libsU0Z1D5nylx"}
 {"version":"8.0.03","arch":"armel","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"aQQmFSncZ58cTnmx"}
@@ -107,6 +110,7 @@
 {"version":"7.8.45","arch":"i386","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"pgWdZcR21EAyJCnx"}
 {"version":"8.0.01","arch":"i386","changelog":"tested on bullseye with and without calamares","_id":"ppvGfoiChzWA2IoA"}
 {"version":"8.0.07","arch":"i386","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"qEcXDs9MYuBL0qLb"}
+{"version":"8.0.12","arch":"amd64","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"qJO7AD84bqX4wGvb"}
 {"version":"8.0.11","arch":"armel","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"qizRrx5WmcBKaQK7"}
 {"version":"7.8.41","arch":"i386","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"rPkeoDGL8y0SbKGF"}
 {"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
@@ -133,7 +137,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.12","arch":"amd64","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"qJO7AD84bqX4wGvb"}
-{"version":"8.0.12","arch":"i386","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"JfP20b5Na4HhHClL"}
-{"version":"8.0.12","arch":"armel","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Z0MnJt0u1gyutI9E"}
-{"version":"8.0.12","arch":"arm64","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Gon083KEjhX6mi0D"}
+{"version":"8.0.13","arch":"amd64","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"MqVrQDtVSAYl8YNy"}
+{"version":"8.0.13","arch":"i386","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"volpYcOI3fsYsJir"}
+{"version":"8.0.13","arch":"arm64","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"6s1kbQTZgqeIEnv6"}
+{"version":"8.0.13","arch":"armel","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"vsrlaZBAnClcqXNI"}
