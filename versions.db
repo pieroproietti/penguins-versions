@@ -5,6 +5,7 @@
 {"version":"7.8.39","arch":"amd64","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"0qGafvT1WioUUSSD"}
 {"version":"7.8.39","arch":"armel","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"2voDFhTVVyYApGnL"}
 {"version":"7.8.31","arch":"i386","changelog":"bugfixes: renamed all ia32 to x32, check the presence of vmlinuz and initrd_img else stop, versionLike in rootTemplate of calamares","_id":"498HrrzaMusfkuDk"}
+{"version":"8.0.11","arch":"arm64","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"4Aa8r3KNcSoPKHaC"}
 {"version":"7.8.13","arch":"amd64","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"4SwG3l6xuXVeriNx"}
 {"version":"8.0.01","arch":"armel","changelog":"tested on bullseye with and without calamares","_id":"4q5XXVEnQfdArCNM"}
 {"version":"8.0.03","arch":"amd64","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"4tMBfNRFivqHsKNc"}
@@ -75,6 +76,7 @@
 {"version":"8.0.03","arch":"armel","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"aQQmFSncZ58cTnmx"}
 {"version":"7.8.36","arch":"i386","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"aYVqEfAgM6grWCXl"}
 {"version":"7.8.10","arch":"amd64","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"aYxxrssKtlKiIVn9"}
+{"version":"8.0.11","arch":"i386","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"b6c48kWIh9ZbfSzA"}
 {"version":"8.0.09","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
 {"version":"8.0.10","arch":"armel","changelog":"added distro linuxmint 20.3 uma","_id":"bjME5VH6ZYrVdA64"}
 {"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
@@ -86,6 +88,7 @@
 {"version":"7.8.27","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"eN1fkEk6WrhnIBZV"}
 {"version":"8.0.01","arch":"amd64","changelog":"tested on bullseye with and without calamares","_id":"ebAsEuDnElrpSMQt"}
 {"version":"7.8.15","arch":"amd64","changelog":"add filter for arch in export:iso","_id":"ekd2dQWqfxfNeUrq"}
+{"version":"8.0.11","arch":"amd64","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"f1aHoGvIBdvNMZWe"}
 {"version":"7.8.10","arch":"i386","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"fJjfhlCOsAD7hbox"}
 {"version":"8.0.09","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
 {"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
@@ -104,6 +107,7 @@
 {"version":"7.8.45","arch":"i386","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"pgWdZcR21EAyJCnx"}
 {"version":"8.0.01","arch":"i386","changelog":"tested on bullseye with and without calamares","_id":"ppvGfoiChzWA2IoA"}
 {"version":"8.0.07","arch":"i386","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"qEcXDs9MYuBL0qLb"}
+{"version":"8.0.11","arch":"armel","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"qizRrx5WmcBKaQK7"}
 {"version":"7.8.41","arch":"i386","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"rPkeoDGL8y0SbKGF"}
 {"version":"7.8.15","arch":"armel","changelog":"add filter for arch in export:iso","_id":"rPwUqQM5LdQSiVZY"}
 {"version":"7.8.22","arch":"armel","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"s1kyGoQnqyetJ8Ut"}
@@ -129,7 +133,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.11","arch":"amd64","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"f1aHoGvIBdvNMZWe"}
-{"version":"8.0.11","arch":"i386","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"b6c48kWIh9ZbfSzA"}
-{"version":"8.0.11","arch":"arm64","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"4Aa8r3KNcSoPKHaC"}
-{"version":"8.0.11","arch":"armel","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"qizRrx5WmcBKaQK7"}
+{"version":"8.0.12","arch":"amd64","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"qJO7AD84bqX4wGvb"}
+{"version":"8.0.12","arch":"i386","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"JfP20b5Na4HhHClL"}
+{"version":"8.0.12","arch":"armel","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Z0MnJt0u1gyutI9E"}
+{"version":"8.0.12","arch":"arm64","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Gon083KEjhX6mi0D"}
