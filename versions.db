@@ -73,6 +73,7 @@
 {"version":"8.0.03","arch":"i386","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"XOWR4isGJVnGTBja"}
 {"version":"7.8.34","arch":"armel","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"XueQXyEYz29FtZCq"}
 {"version":"8.0.08","arch":"i386","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"Y3xBLPweJZlqeE7H"}
+{"version":"8.0.14","arch":"i386","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"YQr9Wsl1mpmLtAzH"}
 {"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
 {"version":"8.0.08","arch":"arm64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"YmPEMyfjuRmvkihv"}
 {"version":"8.0.12","arch":"armel","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Z0MnJt0u1gyutI9E"}
@@ -88,6 +89,7 @@
 {"version":"8.0.10","arch":"amd64","changelog":"added distro linuxmint 20.3 uma","_id":"d963RLhtXsXU1HoP"}
 {"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
 {"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
+{"version":"8.0.14","arch":"armel","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"dVCK9NJRLL5hT81h"}
 {"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
 {"version":"8.0.09","arch":"arm64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"eG6m5olem0C3lOX8"}
 {"version":"7.8.27","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"eN1fkEk6WrhnIBZV"}
@@ -101,6 +103,7 @@
 {"version":"7.8.10","arch":"armel","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"hjBHT0AwKLKS3hnn"}
 {"version":"7.8.40","arch":"armel","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"hvcgcOWDtjn3OqKh"}
 {"version":"7.8.37","arch":"armel","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"l0cZ1iifY4XvVwBg"}
+{"version":"8.0.14","arch":"arm64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"l8Gc7jGoztDX1GBX"}
 {"version":"7.8.13","arch":"i386","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"lAns7MdvUV8PmZWd"}
 {"version":"7.8.27","arch":"amd64","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"lV1OPAqvbN3NQTvt"}
 {"version":"7.8.43","arch":"amd64","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"mGLDsd4LiPK7ZHEa"}
@@ -127,6 +130,7 @@
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
 {"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
+{"version":"8.0.14","arch":"amd64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"vmHwzhQMtSNuyMiK"}
 {"version":"8.0.02","arch":"armel","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"vmig8Nc1DxRbJ6aU"}
 {"version":"8.0.13","arch":"i386","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"volpYcOI3fsYsJir"}
 {"version":"8.0.13","arch":"armel","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"vsrlaZBAnClcqXNI"}
@@ -141,7 +145,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.14","arch":"amd64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"vmHwzhQMtSNuyMiK"}
-{"version":"8.0.14","arch":"i386","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"YQr9Wsl1mpmLtAzH"}
-{"version":"8.0.14","arch":"armel","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"dVCK9NJRLL5hT81h"}
-{"version":"8.0.14","arch":"arm64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"l8Gc7jGoztDX1GBX"}
+{"version":"8.0.15","arch":"amd64","changelog":"krill finally support changing keyboard","_id":"dfnkrRh13PaIK8XI"}
+{"version":"8.0.15","arch":"i386","changelog":"krill finally support changing keyboard","_id":"We0Cob1g3VTDzhVs"}
+{"version":"8.0.15","arch":"armel","changelog":"krill finally support changing keyboard","_id":"dwPr65BmlOKjZeuL"}
+{"version":"8.0.15","arch":"arm64","changelog":"krill finally support changing keyboard","_id":"v4BzBYQrUU0VIslj"}
