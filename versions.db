@@ -13,6 +13,7 @@
 {"version":"7.8.46","arch":"armel","changelog":"checking and rewriting eggs tools:skel","_id":"5FBg786JN1QQwiTd"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
+{"version":"8.0.13","arch":"arm64","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"6s1kbQTZgqeIEnv6"}
 {"version":"8.0.08","arch":"armel","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"70OYaSD5JqPFuY7Q"}
 {"version":"8.0.04","arch":"amd64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"71q9oNoiuIPesF7d"}
 {"version":"8.0.07","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
@@ -47,6 +48,7 @@
 {"version":"7.8.11","arch":"armel","changelog":"removed unused commands: initrd, pve and sanitize. New version eggs.1 man and eggs.1.html","_id":"KMlMLAESozMGRhfK"}
 {"version":"7.8.36","arch":"armel","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"L2C0wi0cswo8EE7u"}
 {"version":"7.8.29","arch":"i386","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"MdlyxeJP8XmG6lPR"}
+{"version":"8.0.13","arch":"amd64","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"MqVrQDtVSAYl8YNy"}
 {"version":"7.8.42","arch":"amd64","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"NAQ2AEC5qEPDX2rp"}
 {"version":"8.0.04","arch":"arm64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"NDh5DrEKLQFO61CE"}
 {"version":"8.0.07","arch":"armel","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"NFvYaHIKB7syK7R8"}
@@ -126,6 +128,8 @@
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
 {"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
 {"version":"8.0.02","arch":"armel","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"vmig8Nc1DxRbJ6aU"}
+{"version":"8.0.13","arch":"i386","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"volpYcOI3fsYsJir"}
+{"version":"8.0.13","arch":"armel","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"vsrlaZBAnClcqXNI"}
 {"version":"7.8.23","arch":"amd64","changelog":"patch for remove @ in path btrfs, moved vmlinuz and initrd_img configurations in eggs.yml","_id":"w8vN7fulTZhnFSrC"}
 {"version":"7.8.45","arch":"amd64","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"whdxl0L4PGDTcG5T"}
 {"version":"7.8.34","arch":"i386","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"wl7LeZJyJgfHECoW"}
@@ -137,7 +141,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.13","arch":"amd64","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"MqVrQDtVSAYl8YNy"}
-{"version":"8.0.13","arch":"i386","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"volpYcOI3fsYsJir"}
-{"version":"8.0.13","arch":"arm64","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"6s1kbQTZgqeIEnv6"}
-{"version":"8.0.13","arch":"armel","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"vsrlaZBAnClcqXNI"}
+{"version":"8.0.14","arch":"amd64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"vmHwzhQMtSNuyMiK"}
+{"version":"8.0.14","arch":"i386","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"YQr9Wsl1mpmLtAzH"}
+{"version":"8.0.14","arch":"armel","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"dVCK9NJRLL5hT81h"}
+{"version":"8.0.14","arch":"arm64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"l8Gc7jGoztDX1GBX"}
