@@ -69,6 +69,7 @@
 {"version":"8.0.04","arch":"arm64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"TorejJp0Au7CN0He"}
 {"version":"7.8.42","arch":"armel","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"UjxnqNW98glvz0JA"}
 {"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
+{"version":"8.0.15","arch":"i386","changelog":"krill finally support changing keyboard","_id":"We0Cob1g3VTDzhVs"}
 {"version":"8.0.07","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
 {"version":"8.0.03","arch":"i386","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"XOWR4isGJVnGTBja"}
 {"version":"7.8.34","arch":"armel","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"XueQXyEYz29FtZCq"}
@@ -91,6 +92,8 @@
 {"version":"7.8.24","arch":"amd64","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"dSnxIMNpkhkCkoW5"}
 {"version":"8.0.14","arch":"armel","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"dVCK9NJRLL5hT81h"}
 {"version":"7.8.38","arch":"armel","changelog":"working in cli installer","_id":"dauimCQX1xO2VQK7"}
+{"version":"8.0.15","arch":"amd64","changelog":"krill finally support changing keyboard","_id":"dfnkrRh13PaIK8XI"}
+{"version":"8.0.15","arch":"armel","changelog":"krill finally support changing keyboard","_id":"dwPr65BmlOKjZeuL"}
 {"version":"8.0.09","arch":"arm64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"eG6m5olem0C3lOX8"}
 {"version":"7.8.27","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"eN1fkEk6WrhnIBZV"}
 {"version":"8.0.01","arch":"amd64","changelog":"tested on bullseye with and without calamares","_id":"ebAsEuDnElrpSMQt"}
@@ -128,6 +131,7 @@
 {"version":"7.8.47","arch":"i386","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"u1WzxZbpZzIk7jft"}
 {"version":"7.8.44","arch":"armel","changelog":"added theme neon, revisited theme eggs","_id":"uSMTtCRemBjPxu4u"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
+{"version":"8.0.15","arch":"arm64","changelog":"krill finally support changing keyboard","_id":"v4BzBYQrUU0VIslj"}
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
 {"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
 {"version":"8.0.14","arch":"amd64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"vmHwzhQMtSNuyMiK"}
@@ -145,7 +149,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.15","arch":"amd64","changelog":"krill finally support changing keyboard","_id":"dfnkrRh13PaIK8XI"}
-{"version":"8.0.15","arch":"i386","changelog":"krill finally support changing keyboard","_id":"We0Cob1g3VTDzhVs"}
-{"version":"8.0.15","arch":"armel","changelog":"krill finally support changing keyboard","_id":"dwPr65BmlOKjZeuL"}
-{"version":"8.0.15","arch":"arm64","changelog":"krill finally support changing keyboard","_id":"v4BzBYQrUU0VIslj"}
+{"version":"8.0.16","arch":"amd64","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"6xIbuyopUVXGHn7B"}
+{"version":"8.0.16","arch":"i386","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"ugFzQnNpoXXXP1Vf"}
+{"version":"8.0.16","arch":"armel","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"03ndf3eYRsZu33mE"}
+{"version":"8.0.16","arch":"arm64","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"HG4mLHOSulDbvWEM"}
