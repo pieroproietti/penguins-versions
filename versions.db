@@ -1,3 +1,4 @@
+{"version":"8.0.16","arch":"armel","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"03ndf3eYRsZu33mE"}
 {"version":"7.8.50","arch":"amd64","changelog":"more steps to krill: eggs now produce configuration for krill or calamares in all the distros","_id":"08npMR5l79Fj0Eii"}
 {"version":"7.8.50","arch":"i386","changelog":"more steps to krill: eggs now produce configuration for krill or calamares in all the distros","_id":"0I8aPVgZqmw41H7b"}
 {"version":"7.8.50","arch":"armel","changelog":"more steps to krill: eggs now produce configuration for krill or calamares in all the distros","_id":"0THpUbcArNzyJU01"}
@@ -14,6 +15,7 @@
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
 {"version":"8.0.13","arch":"arm64","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"6s1kbQTZgqeIEnv6"}
+{"version":"8.0.16","arch":"amd64","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"6xIbuyopUVXGHn7B"}
 {"version":"8.0.08","arch":"armel","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"70OYaSD5JqPFuY7Q"}
 {"version":"8.0.04","arch":"amd64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"71q9oNoiuIPesF7d"}
 {"version":"8.0.07","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
@@ -40,6 +42,7 @@
 {"version":"8.0.12","arch":"arm64","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Gon083KEjhX6mi0D"}
 {"version":"8.0.06","arch":"amd64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"H51rmj0ueJSZDMFD"}
 {"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
+{"version":"8.0.16","arch":"arm64","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"HG4mLHOSulDbvWEM"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
 {"version":"8.0.10","arch":"arm64","changelog":"added distro linuxmint 20.3 uma","_id":"IT6WY5KkaPoRVPOu"}
 {"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
@@ -131,6 +134,7 @@
 {"version":"7.8.47","arch":"i386","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"u1WzxZbpZzIk7jft"}
 {"version":"7.8.44","arch":"armel","changelog":"added theme neon, revisited theme eggs","_id":"uSMTtCRemBjPxu4u"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
+{"version":"8.0.16","arch":"i386","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"ugFzQnNpoXXXP1Vf"}
 {"version":"8.0.15","arch":"arm64","changelog":"krill finally support changing keyboard","_id":"v4BzBYQrUU0VIslj"}
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
 {"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
@@ -149,7 +153,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.16","arch":"amd64","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"6xIbuyopUVXGHn7B"}
-{"version":"8.0.16","arch":"i386","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"ugFzQnNpoXXXP1Vf"}
-{"version":"8.0.16","arch":"armel","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"03ndf3eYRsZu33mE"}
-{"version":"8.0.16","arch":"arm64","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"HG4mLHOSulDbvWEM"}
+{"version":"8.0.16","arch":"amd64","changelog":"krill finally support network configuration","_id":"bsteIIVqY1Jr4AdM"}
+{"version":"8.0.16","arch":"i386","changelog":"krill finally support network configuration","_id":"C7QaxNJqT5lhWRMe"}
+{"version":"8.0.16","arch":"armel","changelog":"krill finally support network configuration","_id":"UmdpXdgVu01i8y6k"}
+{"version":"8.0.16","arch":"arm64","changelog":"krill finally support network configuration","_id":"IC3m8PY2jqaKYUNg"}
