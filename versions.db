@@ -153,7 +153,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.16","arch":"amd64","changelog":"krill finally support network configuration","_id":"bsteIIVqY1Jr4AdM"}
-{"version":"8.0.16","arch":"i386","changelog":"krill finally support network configuration","_id":"C7QaxNJqT5lhWRMe"}
-{"version":"8.0.16","arch":"armel","changelog":"krill finally support network configuration","_id":"UmdpXdgVu01i8y6k"}
-{"version":"8.0.16","arch":"arm64","changelog":"krill finally support network configuration","_id":"IC3m8PY2jqaKYUNg"}
+{"version":"8.0.18","arch":"amd64","changelog":"krill finally support network configuration","_id":"bsteIIVqY1Jr4AdM"}
+{"version":"8.0.18","arch":"i386","changelog":"krill finally support network configuration","_id":"C7QaxNJqT5lhWRMe"}
+{"version":"8.0.18","arch":"armel","changelog":"krill finally support network configuration","_id":"UmdpXdgVu01i8y6k"}
+{"version":"8.0.18","arch":"arm64","changelog":"krill finally support network configuration","_id":"IC3m8PY2jqaKYUNg"}
