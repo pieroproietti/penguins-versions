@@ -29,6 +29,7 @@
 {"version":"8.0.09","arch":"i386","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"BZ727W8R8cCrITHo"}
 {"version":"8.0.02","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
 {"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
+{"version":"8.0.18","arch":"i386","changelog":"krill finally support network configuration","_id":"C7QaxNJqT5lhWRMe"}
 {"version":"8.0.06","arch":"i386","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"C9VMY6tIiQuCRBlF"}
 {"version":"8.0.04","arch":"amd64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"CgqYWe4N19b5oH9f"}
 {"version":"7.8.47","arch":"amd64","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"CoDCk6EOCE3c83Ei"}
@@ -44,6 +45,7 @@
 {"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
 {"version":"8.0.16","arch":"arm64","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"HG4mLHOSulDbvWEM"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
+{"version":"8.0.18","arch":"arm64","changelog":"krill finally support network configuration","_id":"IC3m8PY2jqaKYUNg"}
 {"version":"8.0.10","arch":"arm64","changelog":"added distro linuxmint 20.3 uma","_id":"IT6WY5KkaPoRVPOu"}
 {"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
 {"version":"7.8.35","arch":"armel","changelog":"adaptment to mx linux, machine-id, grub-efi-amd64-bin in place of grub-efi-amd64 in Utils.isUEFI()","_id":"JaePV8WFE8tpVlBy"}
@@ -71,6 +73,7 @@
 {"version":"8.0.04","arch":"armel","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"TVUvJlYu27faAdrd"}
 {"version":"8.0.04","arch":"arm64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"TorejJp0Au7CN0He"}
 {"version":"7.8.42","arch":"armel","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"UjxnqNW98glvz0JA"}
+{"version":"8.0.18","arch":"armel","changelog":"krill finally support network configuration","_id":"UmdpXdgVu01i8y6k"}
 {"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
 {"version":"8.0.15","arch":"i386","changelog":"krill finally support changing keyboard","_id":"We0Cob1g3VTDzhVs"}
 {"version":"8.0.07","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
@@ -89,6 +92,7 @@
 {"version":"8.0.11","arch":"i386","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"b6c48kWIh9ZbfSzA"}
 {"version":"8.0.09","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
 {"version":"8.0.10","arch":"armel","changelog":"added distro linuxmint 20.3 uma","_id":"bjME5VH6ZYrVdA64"}
+{"version":"8.0.18","arch":"amd64","changelog":"krill finally support network configuration","_id":"bsteIIVqY1Jr4AdM"}
 {"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
 {"version":"8.0.10","arch":"amd64","changelog":"added distro linuxmint 20.3 uma","_id":"d963RLhtXsXU1HoP"}
 {"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
@@ -153,7 +157,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.18","arch":"amd64","changelog":"krill finally support network configuration","_id":"bsteIIVqY1Jr4AdM"}
-{"version":"8.0.18","arch":"i386","changelog":"krill finally support network configuration","_id":"C7QaxNJqT5lhWRMe"}
-{"version":"8.0.18","arch":"armel","changelog":"krill finally support network configuration","_id":"UmdpXdgVu01i8y6k"}
-{"version":"8.0.18","arch":"arm64","changelog":"krill finally support network configuration","_id":"IC3m8PY2jqaKYUNg"}
+{"version":"8.0.19","arch":"amd64","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"u5WgERfzktxxpUPS"}
+{"version":"8.0.19","arch":"i386","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"5tkcfAeKqRUQ9Rxj"}
+{"version":"8.0.19","arch":"armel","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"HmuL7j9QIPdkVPQZ"}
+{"version":"8.0.19","arch":"amd64","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"Hl2xBPxxZwU1p0Iu"}
