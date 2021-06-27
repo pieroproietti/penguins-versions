@@ -12,6 +12,7 @@
 {"version":"8.0.03","arch":"amd64","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"4tMBfNRFivqHsKNc"}
 {"version":"7.8.44","arch":"i386","changelog":"added theme neon, revisited theme eggs","_id":"4y9A4xMtCgL7NXVD"}
 {"version":"7.8.46","arch":"armel","changelog":"checking and rewriting eggs tools:skel","_id":"5FBg786JN1QQwiTd"}
+{"version":"8.0.19","arch":"i386","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"5tkcfAeKqRUQ9Rxj"}
 {"version":"7.8.18","arch":"i386","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"5zRQMCDgZB35QR9X"}
 {"version":"7.8.44","arch":"amd64","changelog":"added theme neon, revisited theme eggs","_id":"6939pFu5o8kRVH1j"}
 {"version":"8.0.13","arch":"arm64","changelog":"now we are using unsquashfs during the unpacking phase in cli krill installer","_id":"6s1kbQTZgqeIEnv6"}
@@ -45,6 +46,8 @@
 {"version":"7.8.46","arch":"i386","changelog":"checking and rewriting eggs tools:skel","_id":"H6FiFCSAHneAZ24s"}
 {"version":"8.0.16","arch":"arm64","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"HG4mLHOSulDbvWEM"}
 {"version":"7.8.34","arch":"amd64","changelog":"added .disk folder in iso with info, mkiso, etc. added version in calamares, bugfix ia32","_id":"HM2cXzLvnABh4jw9"}
+{"version":"8.0.19","arch":"amd64","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"Hl2xBPxxZwU1p0Iu"}
+{"version":"8.0.19","arch":"armel","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"HmuL7j9QIPdkVPQZ"}
 {"version":"8.0.18","arch":"arm64","changelog":"krill finally support network configuration","_id":"IC3m8PY2jqaKYUNg"}
 {"version":"8.0.10","arch":"arm64","changelog":"added distro linuxmint 20.3 uma","_id":"IT6WY5KkaPoRVPOu"}
 {"version":"7.8.36","arch":"amd64","changelog":"added livecd theme for openos, added full name on the livecd boot and in installed system boot","_id":"JBDK42hvFsmDRQL2"}
@@ -136,6 +139,7 @@
 {"version":"7.8.39","arch":"i386","changelog":"added possibility to customize default partition in theme: openos will have btrfs as default","_id":"tihBUdsCw4LVqGgB"}
 {"version":"7.8.24","arch":"armel","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"tmX9z9YGLBQRzVCR"}
 {"version":"7.8.47","arch":"i386","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"u1WzxZbpZzIk7jft"}
+{"version":"8.0.19","arch":"amd64","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"u5WgERfzktxxpUPS"}
 {"version":"7.8.44","arch":"armel","changelog":"added theme neon, revisited theme eggs","_id":"uSMTtCRemBjPxu4u"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"8.0.16","arch":"i386","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"ugFzQnNpoXXXP1Vf"}
@@ -157,7 +161,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.19","arch":"amd64","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"u5WgERfzktxxpUPS"}
-{"version":"8.0.19","arch":"i386","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"5tkcfAeKqRUQ9Rxj"}
-{"version":"8.0.19","arch":"armel","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"HmuL7j9QIPdkVPQZ"}
-{"version":"8.0.19","arch":"amd64","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"Hl2xBPxxZwU1p0Iu"}
+{"version":"8.0.20","arch":"amd64","changelog":"added domain and dns network configuration in krill","_id":"Q0Hm3V3GSpf5bY0o"}
+{"version":"8.0.20","arch":"i386","changelog":"added domain and dns network configuration in krill","_id":"CLb7Cr6vP5pQdh2B"}
+{"version":"8.0.20","arch":"armel","changelog":"added domain and dns network configuration in krill","_id":"EnMNqTt8JMSKUuQQ"}
+{"version":"8.0.20","arch":"arm64","changelog":"added domain and dns network configuration in krill","_id":"2xLtBLyCPYUStkk3"}
