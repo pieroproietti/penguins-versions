@@ -22,6 +22,7 @@
 {"version":"8.0.04","arch":"amd64","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"71q9oNoiuIPesF7d"}
 {"version":"8.0.07","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
 {"version":"7.8.47","arch":"armel","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"7JVUujLxwmYq3fJW"}
+{"version":"8.0.22","arch":"amd64","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"7X14GHWGsTnRAcvU"}
 {"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
 {"version":"8.0.08","arch":"amd64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"8CfVoUxZWLlBxF5d"}
@@ -79,8 +80,10 @@
 {"version":"7.8.24","arch":"i386","changelog":"removed the compression filter by processor for ia64, added for ARM","_id":"TKYJo2sPNYGHOyQ0"}
 {"version":"8.0.04","arch":"armel","changelog":"added eggsArch and machineArch to meet rasberry-desktop-i386 but with kernel amd64","_id":"TVUvJlYu27faAdrd"}
 {"version":"8.0.04","arch":"arm64","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"TorejJp0Au7CN0He"}
+{"version":"8.0.22","arch":"armel","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"UOOned9vtZHPjSRV"}
 {"version":"7.8.42","arch":"armel","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"UjxnqNW98glvz0JA"}
 {"version":"8.0.18","arch":"armel","changelog":"krill finally support network configuration","_id":"UmdpXdgVu01i8y6k"}
+{"version":"8.0.22","arch":"i386","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"VYRnn2i8Oa1v3hHy"}
 {"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
 {"version":"8.0.15","arch":"i386","changelog":"krill finally support changing keyboard","_id":"We0Cob1g3VTDzhVs"}
 {"version":"8.0.07","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
@@ -117,6 +120,7 @@
 {"version":"8.0.09","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
 {"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
 {"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
+{"version":"8.0.22","arch":"arm64","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"ha98yueRNAcD8b1W"}
 {"version":"7.8.10","arch":"armel","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"hjBHT0AwKLKS3hnn"}
 {"version":"7.8.40","arch":"armel","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"hvcgcOWDtjn3OqKh"}
 {"version":"7.8.37","arch":"armel","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"l0cZ1iifY4XvVwBg"}
@@ -165,7 +169,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.22","arch":"amd64","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"7X14GHWGsTnRAcvU"}
-{"version":"8.0.22","arch":"i386","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"VYRnn2i8Oa1v3hHy"}
-{"version":"8.0.22","arch":"armel","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"UOOned9vtZHPjSRV"}
-{"version":"8.0.22","arch":"arm64","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"ha98yueRNAcD8b1W"}
+{"version":"8.0.24","arch":"amd64","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"WUHs5lHsso85bpTQ"}
+{"version":"8.0.24","arch":"i386","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"Agj6ofZOMssbhL5q"}
+{"version":"8.0.24","arch":"armel","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"kdeHZr1LzHqPtukg"}
+{"version":"8.0.24","arch":"arm64","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"gWOS4HLOUk5Cfm8u"}
