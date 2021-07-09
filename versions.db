@@ -29,6 +29,7 @@
 {"version":"7.8.45","arch":"armel","changelog":"think-ing a plan to rewrite eggs CLI installer","_id":"9sPba4Wz8bdMEWnB"}
 {"version":"8.0.06","arch":"arm64","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"9wTLKqbNPeClP9uW"}
 {"version":"7.8.43","arch":"i386","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"AaeiJbbGhZnLxY8T"}
+{"version":"8.0.24","arch":"i386","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"Agj6ofZOMssbhL5q"}
 {"version":"8.0.09","arch":"i386","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"BZ727W8R8cCrITHo"}
 {"version":"8.0.02","arch":"amd64","changelog":"after two years we resolve a bug in eggs old more than two years, expecially in buster","_id":"BmrvOK35mU7vxTmd"}
 {"version":"7.8.41","arch":"amd64","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"C5yzyIX1reMrZXYL"}
@@ -85,6 +86,7 @@
 {"version":"8.0.18","arch":"armel","changelog":"krill finally support network configuration","_id":"UmdpXdgVu01i8y6k"}
 {"version":"8.0.22","arch":"i386","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"VYRnn2i8Oa1v3hHy"}
 {"version":"7.8.22","arch":"arm64","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"VfRhYWbGY11tzHsT"}
+{"version":"8.0.24","arch":"amd64","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"WUHs5lHsso85bpTQ"}
 {"version":"8.0.15","arch":"i386","changelog":"krill finally support changing keyboard","_id":"We0Cob1g3VTDzhVs"}
 {"version":"8.0.07","arch":"amd64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"X7duVIemYYhOaf0E"}
 {"version":"8.0.03","arch":"i386","changelog":"cleaning and testing krill: uefi down in bullseye, ok buster and probably others versions","_id":"XOWR4isGJVnGTBja"}
@@ -120,9 +122,11 @@
 {"version":"8.0.09","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
 {"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
 {"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
+{"version":"8.0.24","arch":"arm64","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"gWOS4HLOUk5Cfm8u"}
 {"version":"8.0.22","arch":"arm64","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"ha98yueRNAcD8b1W"}
 {"version":"7.8.10","arch":"armel","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"hjBHT0AwKLKS3hnn"}
 {"version":"7.8.40","arch":"armel","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"hvcgcOWDtjn3OqKh"}
+{"version":"8.0.24","arch":"armel","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"kdeHZr1LzHqPtukg"}
 {"version":"7.8.37","arch":"armel","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"l0cZ1iifY4XvVwBg"}
 {"version":"8.0.14","arch":"arm64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"l8Gc7jGoztDX1GBX"}
 {"version":"7.8.13","arch":"i386","changelog":"modified pre e post install scripts and added check presence directory man1   and bash_completion.d","_id":"lAns7MdvUV8PmZWd"}
@@ -169,7 +173,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.24","arch":"amd64","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"WUHs5lHsso85bpTQ"}
-{"version":"8.0.24","arch":"i386","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"Agj6ofZOMssbhL5q"}
-{"version":"8.0.24","arch":"armel","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"kdeHZr1LzHqPtukg"}
-{"version":"8.0.24","arch":"arm64","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"gWOS4HLOUk5Cfm8u"}
+{"version":"8.0.26","arch":"amd64","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"RCxK6kXaBMz4TB51"}
+{"version":"8.0.26","arch":"i386","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"7bQLGKnlR9yXQ0de"}
+{"version":"8.0.26","arch":"armel","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"ccwrp3DUCAYdT52m"}
+{"version":"8.0.26","arch":"arm64","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"i3P7KLRbpJxi0a0P"}
