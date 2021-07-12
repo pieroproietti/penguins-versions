@@ -23,6 +23,7 @@
 {"version":"8.0.07","arch":"arm64","changelog":"added syslinux-common to dependencies, thanx to aravind@stmdocs.in, uefi installation tested and working amd64","_id":"78si05hD1n15zxgE"}
 {"version":"7.8.47","arch":"armel","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"7JVUujLxwmYq3fJW"}
 {"version":"8.0.22","arch":"amd64","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"7X14GHWGsTnRAcvU"}
+{"version":"8.0.26","arch":"i386","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"7bQLGKnlR9yXQ0de"}
 {"version":"7.8.42","arch":"i386","changelog":"eggs clean diversion in calamares before remove, bugfix in eggs calamares --remove and --install. Added --addons in produce, take place of --adapt, --pve","_id":"7deqytxC6OxN5AdM"}
 {"version":"7.8.41","arch":"armel","changelog":"removed drivelist package from eggs, jessie now work with the mainstrem eggs, removed xterm from dependencies","_id":"7i2VlIrKgOYjLFjj"}
 {"version":"8.0.08","arch":"amd64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"8CfVoUxZWLlBxF5d"}
@@ -71,6 +72,7 @@
 {"version":"8.0.06","arch":"armel","changelog":"finished restucturation to include arm. Now we need two thing: adapt krill installer to UEFI (calamares not present in arm) and finally make UEFI for arm","_id":"P8nf4oghXwtvoJYI"}
 {"version":"8.0.20","arch":"amd64","changelog":"added domain and dns network configuration in krill","_id":"Q0Hm3V3GSpf5bY0o"}
 {"version":"8.0.04","arch":"i386","changelog":"added arm64 package and started test on arm64 and armel architectures","_id":"R3wO3TLGOFI8Fzyl"}
+{"version":"8.0.26","arch":"amd64","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"RCxK6kXaBMz4TB51"}
 {"version":"8.0.10","arch":"i386","changelog":"added distro linuxmint 20.3 uma","_id":"RMoIVQTyxVw0x4jh"}
 {"version":"7.8.25","arch":"armel","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"RPoAH318dO9sd1uD"}
 {"version":"7.8.29","arch":"armel","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"Rhkzy5vEhjn3NOQh"}
@@ -105,6 +107,7 @@
 {"version":"8.0.09","arch":"armel","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"bbEYPFLrznxZcCIr"}
 {"version":"8.0.10","arch":"armel","changelog":"added distro linuxmint 20.3 uma","_id":"bjME5VH6ZYrVdA64"}
 {"version":"8.0.18","arch":"amd64","changelog":"krill finally support network configuration","_id":"bsteIIVqY1Jr4AdM"}
+{"version":"8.0.26","arch":"armel","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"ccwrp3DUCAYdT52m"}
 {"version":"7.8.40","arch":"i386","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"cwkXul3MRp38eDZN"}
 {"version":"8.0.10","arch":"amd64","changelog":"added distro linuxmint 20.3 uma","_id":"d963RLhtXsXU1HoP"}
 {"version":"7.8.18","arch":"amd64","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"dI9ckzgsqBJPMSJa"}
@@ -126,6 +129,7 @@
 {"version":"8.0.22","arch":"arm64","changelog":"just same refactoring and removed last ; in krill_prepare networking dns","_id":"ha98yueRNAcD8b1W"}
 {"version":"7.8.10","arch":"armel","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"hjBHT0AwKLKS3hnn"}
 {"version":"7.8.40","arch":"armel","changelog":"zstd -Xcompression-level 1 take place of lz4 in fast compression, others adpment for jessie","_id":"hvcgcOWDtjn3OqKh"}
+{"version":"8.0.26","arch":"arm64","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"i3P7KLRbpJxi0a0P"}
 {"version":"8.0.24","arch":"armel","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"kdeHZr1LzHqPtukg"}
 {"version":"7.8.37","arch":"armel","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"l0cZ1iifY4XvVwBg"}
 {"version":"8.0.14","arch":"arm64","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"l8Gc7jGoztDX1GBX"}
@@ -173,7 +177,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.26","arch":"amd64","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"RCxK6kXaBMz4TB51"}
-{"version":"8.0.26","arch":"i386","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"7bQLGKnlR9yXQ0de"}
-{"version":"8.0.26","arch":"armel","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"ccwrp3DUCAYdT52m"}
-{"version":"8.0.26","arch":"arm64","changelog":"eggs produce --backup working with luks: all users accounts and their home are saved in crypted volume. bugfix postrm","_id":"i3P7KLRbpJxi0a0P"}
+{"version":"8.0.27","arch":"amd64","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"uDQxQxmpF8CZwVAY"}
+{"version":"8.0.27","arch":"i386","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"YbL73a7uIv45T6Yn"}
+{"version":"8.0.27","arch":"arm64","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"frEnKtdOseM6vow1"}
+{"version":"8.0.27","arch":"armel","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"uyMS2axJKd3r0Oo4"}
