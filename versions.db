@@ -96,6 +96,7 @@
 {"version":"8.0.08","arch":"i386","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"Y3xBLPweJZlqeE7H"}
 {"version":"8.0.14","arch":"i386","changelog":"re added rsync, after unsquashfs, to let modifications in live to be reflected in the installed system","_id":"YQr9Wsl1mpmLtAzH"}
 {"version":"7.8.15","arch":"i386","changelog":"add filter for arch in export:iso","_id":"Yb09DJ6SvoNH4l1i"}
+{"version":"8.0.27","arch":"i386","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"YbL73a7uIv45T6Yn"}
 {"version":"8.0.08","arch":"arm64","changelog":"added --backup to produce: to save users datas, eggs install ok in debian and ubuntu","_id":"YmPEMyfjuRmvkihv"}
 {"version":"8.0.12","arch":"armel","changelog":"we are using cfonts simple for titles, removed package figlet","_id":"Z0MnJt0u1gyutI9E"}
 {"version":"7.8.43","arch":"armel","changelog":"select between zstd, lz4m gzip for fast compression. In produce we have --release in place of --final (add max compression and sterilize)","_id":"Z3ADGIDiLrmPcgkT"}
@@ -123,6 +124,7 @@
 {"version":"8.0.11","arch":"amd64","changelog":"added progress bar during unpacking phase in cli krill installer","_id":"f1aHoGvIBdvNMZWe"}
 {"version":"7.8.10","arch":"i386","changelog":"perrisbrewey: un salto in birreria ed i preinst, postinst, prerm e postrm sono cotti!","_id":"fJjfhlCOsAD7hbox"}
 {"version":"8.0.09","arch":"amd64","changelog":"sudo eggs calamares --install now install and configure calamares to run without asking for password","_id":"flYiyTxCNoiExmpk"}
+{"version":"8.0.27","arch":"arm64","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"frEnKtdOseM6vow1"}
 {"version":"7.8.37","arch":"amd64","changelog":"added livecd theme for ufficiozero, check option --final in produce and calamares","_id":"fzgtPZjur9HlvsHz"}
 {"version":"7.8.18","arch":"armel","changelog":"cleaning and extending pre e post installations, man, npm package, etc","_id":"g8CWkb2itO8aLyOm"}
 {"version":"8.0.24","arch":"arm64","changelog":"partial rewrite in perrisbrewery due a problem from same version 8.0.18 - 8.0.23. I hope it is solved, but need confirm","_id":"gWOS4HLOUk5Cfm8u"}
@@ -156,9 +158,11 @@
 {"version":"7.8.24","arch":"armel","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"tmX9z9YGLBQRzVCR"}
 {"version":"7.8.47","arch":"i386","changelog":"added Ubuntu hirsute (Ubuntu 21.04) to compatibily list","_id":"u1WzxZbpZzIk7jft"}
 {"version":"8.0.19","arch":"amd64","changelog":"live user is now created also for backups, iso volid became just basename, no limitations on name of isos","_id":"u5WgERfzktxxpUPS"}
+{"version":"8.0.27","arch":"amd64","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"uDQxQxmpF8CZwVAY"}
 {"version":"7.8.44","arch":"armel","changelog":"added theme neon, revisited theme eggs","_id":"uSMTtCRemBjPxu4u"}
 {"version":"7.6.83","arch":"i386","changelog":"reintroduced armel arch; info now show running mode","_id":"uc50nIYDz8lBBT6W"}
 {"version":"8.0.16","arch":"i386","changelog":"creating a backup produce ISO prefixed by \"backup-\" not \"egg-of-\", eggs export:iso include now --backup option too","_id":"ugFzQnNpoXXXP1Vf"}
+{"version":"8.0.27","arch":"armel","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"uyMS2axJKd3r0Oo4"}
 {"version":"8.0.15","arch":"arm64","changelog":"krill finally support changing keyboard","_id":"v4BzBYQrUU0VIslj"}
 {"version":"7.8.25","arch":"i386","changelog":"eggs ask for calamares if it is not installed, fixes in themes eggs and openos","_id":"vCuzKTLQXQnq9x7y"}
 {"version":"7.8.26","arch":"i386","changelog":"bufixes and compression filter by processor","_id":"vbZvjKtHtcbpmIxJ"}
@@ -177,7 +181,7 @@
 {"version":"7.8.29","arch":"amd64","changelog":"postinst just alert for the absense of calamares in GUI systems during eggs installation. show.qml fix presentation, mom changed in accord with new flags","_id":"zP9m1D1EU5URIxTA"}
 {"version":"7.8.22","arch":"i386","changelog":"apt remove and apt purge working, sddb bugfix, calamares show revisited","_id":"zZeAYuVNFJAIZY9f"}
 {"version":"7.8.24","arch":"i386","changelog":"added theme openos from Sebastien <admi.openos.neon@gmail.com>","_id":"zj4FqINXEnjMhacF"}
-{"version":"8.0.27","arch":"amd64","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"uDQxQxmpF8CZwVAY"}
-{"version":"8.0.27","arch":"i386","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"YbL73a7uIv45T6Yn"}
-{"version":"8.0.27","arch":"arm64","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"frEnKtdOseM6vow1"}
-{"version":"8.0.27","arch":"armel","changelog":"rewrite and refactor pacman and perrisbrewery using new common dependencies.ts introduced now (article on the blog)","_id":"uyMS2axJKd3r0Oo4"}
+{"version":"8.0.28","arch":"amd64","changelog":"backup adapt luks encrypted volume to user's data size. Working on standard and full encrypted filesystem systems","_id":"qgDkRIa23HetFyzj"}
+{"version":"8.0.28","arch":"i386","changelog":"backup adapt luks encrypted volume to user's data size. Working on standard and full encrypted filesystem systems","_id":"586J2PuUFdbjt9kF"}
+{"version":"8.0.28","arch":"arm64","changelog":"backup adapt luks encrypted volume to user's data size. Working on standard and full encrypted filesystem systems","_id":"cIRXJsVg0BVKspbN"}
+{"version":"8.0.28","arch":"armel","changelog":"backup adapt luks encrypted volume to user's data size. Working on standard and full encrypted filesystem systems","_id":"CXb8VBoO8cxrBTBj"}
